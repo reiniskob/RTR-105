@@ -7,6 +7,7 @@ Tests ar list
    2. Tests ar list 2
 
 Tests ar attēlu
+![This is an image](https://upload.wikimedia.org/wikipedia/lv/thumb/f/fd/RTU_logo_2017.svg/1232px-RTU_logo_2017.svg.png)
 
 List ar chekbox
 - [x] jauztaisa satura raditajs
