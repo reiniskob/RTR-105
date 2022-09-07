@@ -22,6 +22,7 @@ List ar chekbox
 - [ ] jāuztaisa vairak piemēru
 - [x] jāievieto attēls
 - [ ] jāuztaisa saturs
+- [x] Instalēt virtualbox un ubuntu
 
 > Blockquote
 >> Nested blockquote
