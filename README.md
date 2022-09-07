@@ -2,14 +2,13 @@
 Datormācība (pamatkurss) 1. repository
 [Tests ar link](https://ortus.rtu.lv)  
 Saturs:
-1. [Piemēri](#Piemēri)
-2. Ubuntu HotKeys
-3. Terminal commands
+1. [Piemēri](#piemēri)
+2. [Ubuntu HotKeys](#ubuntu)
+3. [Terminal commands](#terminal)
 
 
 
 # Piemēri
-
 Piemērs ar 1. list
 -  Tests ar list 1
 -  Tests ar list 2
@@ -24,6 +23,9 @@ List ar chekbox
 - [x] jāievieto attēls
 - [ ] jāuztaisa saturs
 
+> Blockquote
+>> Nested blockquote
+
 **Bold**
 *Italic*
 # Ļoti liels
@@ -32,7 +34,19 @@ List ar chekbox
 #### Mazs
 ##### Ļoti mazs
 
-> Blockquote
->> Nested blockquote
-
 ![RTU LOGO](https://upload.wikimedia.org/wikipedia/lv/thumb/f/fd/RTU_logo_2017.svg/1232px-RTU_logo_2017.svg.png)
+
+## Ubuntu
+[Shortcuts for ubuntu](https://www.geeksforgeeks.org/keyboard-shortcuts-for-ubuntu-set-1/) 
+1. Ctrl+Alt+T new terminal tab
+2. Ctrl + Shift + N > New terminal window 
+3. Ctrl + Shift + F > Find
+4. Ctrl + C or Ctrl + Z > Kill the current process 
+5. Ctrl + L > Clear console 
+6. Ctrl + Shift + C > Copy
+7. Ctrl + Shift + V > Paste
+
+
+
+
+## Terminal
