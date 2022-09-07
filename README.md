@@ -2,7 +2,7 @@
 Datormācība (pamatkurss) 1. repository
 [Tests ar link](https://ortus.rtu.lv)  
 Saturs:
-1. [Piemēri]
+1. [Piemēri](#Piemēri)
 2. Ubuntu HotKeys
 3. Terminal commands
 
@@ -16,8 +16,6 @@ Piemērs ar 1. list
 
 Piemērs ar 2. list
 1. Tests ar list 
-	1. Tests ar list 
-	2. Tests ar list 
 2. Tests ar list 
 
 List ar chekbox
