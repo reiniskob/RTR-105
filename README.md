@@ -50,3 +50,24 @@ List ar chekbox
 
 
 ## Terminal
+
+1. cd > change directory
+    1. cd / > root directory
+    2. cd .. > To navigate up one directory level, use 
+    3. cd - > To navigate to the previous directory or back
+2. pwd > Print work directory
+3. ls > list computer files and directories
+    1. -l > use a long listing format, all details
+    2. -a > list all enteries
+    3. -t > sort by modification time
+    4. -S > sort by file size, largest first
+    5. -r > reverse order while sorting
+4. nano filename > opening a file in nano text editor
+5. cat > open a txt file
+6. lshw > hardware configuration 
+7. mkdir > make a directory
+8. rm filename > remove file or directory
+9. rmdir direcory name > remove directory
+10. git clone URL > cloning a git directory to linux
+11. mv filename ~/Desktop  > move the file to your Desktop directory
+12. mv filename filename2 > renames filename to filename2
