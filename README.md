@@ -72,7 +72,10 @@ List ar chekbox
 10. git clone URL > cloning a git directory to linux
 11. mv filename ~/Desktop  > move the file to your Desktop directory
 12. mv filename filename2 > renames filename to filename2
-13. To upload a file to github from terminal first command 
+13. To upload a file to github from terminal
 	1. git config --global user.email "reiniskob@gmail.com"
 	2. git config --global user.name "reiniskob"
 	3. git commit -m "README.md"
+	4. git push origin main
+	5. enter username and token
+	6. 
