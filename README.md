@@ -66,9 +66,12 @@ List ar chekbox
 4. nano filename > opening a file in nano text editor
 5. cat > open a txt file
 6. lshw > hardware configuration 
-7. mkdir > make a directory
+7. mkdir > make a directory 
 8. rm filename > remove file or directory
 9. rmdir direcory name > remove directory
 10. git clone URL > cloning a git directory to linux
 11. mv filename ~/Desktop  > move the file to your Desktop directory
 12. mv filename filename2 > renames filename to filename2
+13. 
+
+
