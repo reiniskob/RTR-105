@@ -63,6 +63,7 @@ List ar chekbox
     3. -t > sort by modification time
     4. -S > sort by file size, largest first
     5. -r > reverse order while sorting
+    6. -h > with file size
 4. nano filename > opening a file in nano text editor
 5. cat > open a txt file
 6. lshw > hardware configuration 
@@ -78,4 +79,3 @@ List ar chekbox
 	3. git commit -m "README.md"
 	4. git push origin main
 	5. enter username and token
-	6. 
