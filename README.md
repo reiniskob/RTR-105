@@ -77,8 +77,9 @@ List ar chekbox
 11. mv filename ~/Desktop  > move the file to your Desktop directory
 12. mv filename filename2 > renames filename to filename2
 13. To upload a file to github from terminal
-	1. git config --global user.email "reiniskob@gmail.com"
-	2. git config --global user.name "reiniskob"
-	3. git commit -m "README.md"
-	4. git push origin main
-	5. enter username and token
+	1.
+	2. git config --global user.email "reiniskob@gmail.com"
+	3. git config --global user.name "reiniskob"
+	4. git commit -m "README.md"
+	5. git push origin main
+	6. enter username and token
