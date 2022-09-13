@@ -1,4 +1,5 @@
 # RTR-105
+Izmaiņas
 Datormācība (pamatkurss) 1. repository
 [Tests ar link](https://ortus.rtu.lv)  
 Saturs:
@@ -46,7 +47,9 @@ List ar chekbox
 5. Ctrl + L > Clear console 
 6. Ctrl + Shift + C > Copy
 7. Ctrl + Shift + V > Paste
-
+8. Ctrl + t > new tab in firefox
+9. Ctrl + w > close terminal
+10. Ctrl + tab > switch between tabs
 
 
 
