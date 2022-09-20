@@ -72,3 +72,13 @@
    72  history > histor_20.09.2022.txt
    73  ls
    74  history > history_20.09.2022.txt
+   75  ls
+   76  rm histor-
+   77  rm histor_20.09.2022.txt
+   78  ls
+   79  git-upload
+   80  history > history_20.09.2022.txt
+   81  ls
+   82  /jello
+   83  history
+   84  history > history_20.09.2022.txt
