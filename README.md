@@ -83,6 +83,13 @@ List ar chekbox
 	4. git commit -m "README.md"
 	5. git push origin main
 	6. enter username and token
+14. chmod 764 > for changing which users can do what (read/write/execute)
+	1. chmod rwx rw- r--
+	2. chmod 111 110 100
+	3. chmod 764
+15. ./git-upload committ_variable > to upload a file to github.com
+16. history > filename.txt > to upload history to a txt file 
+
 
 ## Unix
 https://www.tutorialspoint.com/unix/unix-special-variables.htm
