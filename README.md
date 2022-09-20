@@ -89,6 +89,7 @@ List ar chekbox
 	3. chmod 764
 15. ./git-upload committ_variable > to upload a file to github.com
 16. history > filename.txt > to upload history to a txt file 
+17. echo > to display text strings or command results as messages
 
 
 ## Unix
