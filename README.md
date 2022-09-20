@@ -53,7 +53,7 @@ List ar chekbox
 
 
 
-## Terminal
+## Terminal commands
 
 1. cd > change directory
     1. cd / > root directory
@@ -83,3 +83,15 @@ List ar chekbox
 	4. git commit -m "README.md"
 	5. git push origin main
 	6. enter username and token
+
+## Unix
+https://www.tutorialspoint.com/unix/unix-special-variables.htm
+
+1. $0 > The filename of the current script.
+2. $n > These variables correspond to the arguments with which a script was invoked. Here n is a positive decimal number corresponding to the position of an argument (the first argument is $1, the second argument is $2, and so on).
+3. $# > The number of arguments supplied to a script.
+4. $* > All the arguments are double quoted. If a script receives two arguments, $* is equivalent to $1 $2.
+5. $@ > All the arguments are individually double quoted. If a script receives two arguments, $@ is equivalent to $1 $2.
+6. $? > The exit status of the last command executed.
+7. $$ > The process number of the current shell. For shell scripts, this is the process ID under which they are executing.
+8. $! > The process number of the last background command.
