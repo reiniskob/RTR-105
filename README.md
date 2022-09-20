@@ -87,6 +87,8 @@ List ar chekbox
 ## Unix
 https://www.tutorialspoint.com/unix/unix-special-variables.htm
 
+variables lieto kad nepieciešams no command line mainīt kaut ko scriptā bez teksta editor lietošanas
+
 1. $0 > The filename of the current script.
 2. $n > These variables correspond to the arguments with which a script was invoked. Here n is a positive decimal number corresponding to the position of an argument (the first argument is $1, the second argument is $2, and so on).
 3. $# > The number of arguments supplied to a script.
