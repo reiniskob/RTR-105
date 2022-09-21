@@ -4,4 +4,3 @@ git config --global user.email "reiniskob@gmail.com"
 git config --global user.name "reiniskob"
 git commit -m "RTR-105$1"
 git push origin main
-
