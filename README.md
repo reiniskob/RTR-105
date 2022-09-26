@@ -98,10 +98,10 @@ https://www.tutorialspoint.com/unix/unix-special-variables.htm
 variables lieto kad nepieciešams no command line mainīt kaut ko scriptā bez teksta editor lietošanas
 
 1. $0 > The filename of the current script.
-2. $n > These variables correspond to the arguments with which a script was invoked. Here n is a positive decimal number corresponding to the position of an argument (the first argument is $1, the second argument is $2, and so on).
+2. $n > Here n is a positive decimal number corresponding to the position of an argument (the first argument is $1, the second argument is $2, and so on).
 3. $# > The number of arguments supplied to a script.
 4. $* > All the arguments are double quoted. 
 5. $@ > All the arguments are individually double quoted. 
 6. $? > The exit status of the last command executed.
-7. $$ > The process number of the current shell. For shell scripts, this is the process ID under which they are executing.
+7. $$ > The process number of the current shell. This is the process ID under which they are executing.
 8. $! > The process number of the last background command.
