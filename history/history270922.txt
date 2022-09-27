@@ -1,0 +1,125 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://reiniskob/RTR-105
+    4  lsd
+    5  ls
+    6  git clone https://github.com/reiniskob/RTR-105
+    7  ls
+    8  cd RTR-105
+    9  ls
+   10  ./tests.out
+   11  cd 'First C Thing'
+   12  ls
+   13  ./main.c
+   14  chmod 764 main.c
+   15  ./main.c
+   16  nano main.c
+   17  ls
+   18  cd
+   19  cd RTR-105
+   20  ls
+   21  ./script.sh
+   22  cat script.sh
+   23  rm script.sh
+   24  ls
+   25  ls -lt
+   26  mkdir history
+   27  cd history
+   28  mv history_20.09.2022.txt ~/history
+   29  ls
+   30  cd -
+   31  ls
+   32  mv history_20.09.2022.txt ~/history
+   33  cd history
+   34  ls
+   35  cd -
+   36  ls
+   37  mv history_20.09.2022.txt ~/RTR-105
+   38  ls
+   39  cd
+   40  ls
+   41  mv history_20.09.2022.txt ~/RTR-105
+   42  mv history ~/RTR-105
+   43  ls
+   44  cd history
+   45  ls
+   46  cd RTR-105
+   47  nano first.c
+   48  ls
+   49  cd history
+   50  ls
+   51  cd
+   52  ls
+   53  cd history
+   54  ls -lt
+   55  gcc first.c
+   56  ls
+   57  cat history
+   58  mv history ~/RTR-105
+   59  chmod 764
+   60  chmod 764 history
+   61  ls
+   62  mv history ~/RTR-105
+   63  cd RTR-105
+   64  ls
+   65  cd history
+   66  ls
+   67  cd ..
+   68  ls
+   69  rm history
+   70  rmdir history
+   71  ls
+   72  mv history ~/RTR-105
+   73  ls
+   74  cd
+   75  mv history ~/RTR-105
+   76  ls
+   77  RTR-105
+   78  cd RTR-105
+   79  ls
+   80  cat first.c
+   81  gcc first.c 
+   82  gcc first.c first.out
+   83  man first.c
+   84  cat first.c
+   85  ./ git-upload
+   86  /. git-upload
+   87  ls
+   88  ./git-upload
+   89  a
+   90  ls
+   91  cat a.out
+   92  ls
+   93  rm a.out
+   94  ls
+   95  gcc first.c -o first.out
+   96  ls
+   97  ./ first.out
+   98  ./first.out
+   99  ls
+  100  tree
+  101  nano first
+  102  ls
+  103  nano first.c
+  104  echo $?
+  105  hhh
+  106  echo $?
+  107  nano first.c
+  108  ls
+  109  nano .gitignore
+  110  ls
+  111  ls -lt
+  112  ls -lta
+  113  gcc first.c -S -save-temps -0 first.out
+  114  gcc first.c -S -save-temps -o first.out
+  115  ls
+  116  ls -lta
+  117  cd history
+  118  mkdir history
+  119  cat history
+  120  mv history history200922
+  121  ls
+  122  mkdir history
+  123  ls
+  124  cd history
+  125  history > history270922.txt

@@ -1,3 +1,4 @@
+
 # RTR-105
 
 Datormācība (pamatkurss) 1. repository
@@ -90,7 +91,9 @@ List ar chekbox
 15. ./git-upload committ_variable > to upload a file to github.com
 16. history > filename.txt > to upload history to a txt file 
 17. echo > to display text strings or command results as messages
-
+18. echo $? > displays the return from the previous command
+19. gcc filename -0 newfilename > compiles code and changes the name
+20. ./filename > executes file without path
 
 ## Unix
 https://www.tutorialspoint.com/unix/unix-special-variables.htm
@@ -105,3 +108,10 @@ variables lieto kad nepieciešams no command line mainīt kaut ko scriptā bez t
 6. $? > The exit status of the last command executed.
 7. $$ > The process number of the current shell. This is the process ID under which they are executing.
 8. $! > The process number of the last background command.
+
+
+## C valoda
+
+main() > funkcija
+int > answer will be an intiger
+return skaitls ; > if the command fails it will show where the command failed
