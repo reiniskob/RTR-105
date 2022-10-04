@@ -51,7 +51,8 @@ List ar chekbox
 8. Ctrl + t > new tab in firefox
 9. Ctrl + w > close terminal
 10. Ctrl + tab > switch between tabs
-
+11. Ctrl + k > cuts out a line saves in buffer
+12. Ctrl + u > pastes line from buffer
 
 
 ## Terminal commands
@@ -93,6 +94,7 @@ List ar chekbox
 17. echo > to display text strings or command results as messages
 18. echo $? > displays the return from the previous command
 19. gcc filename -0 newfilename > compiles code and changes the name
+	1. -save-temps > saves all the compiling files
 20. ./filename > executes file without path
 
 ## Unix
@@ -112,6 +114,13 @@ variables lieto kad nepieciešams no command line mainīt kaut ko scriptā bez t
 
 ## C valoda
 
-main() > funkcija
-int > answer will be an intiger
-return skaitls ; > if the command fails it will show where the command failed
+1. main() > funkcija
+2. int > answer will be an intiger
+3. return skaitls ; > if the command fails it will show where the command failed
+4. \n > moves cursor to next line
+5. printf (); > for displaying format outputs
+	1. %[flags][width][.precision][length]specifier
+	2. https://cplusplus.com/reference/cstdio/printf/
+6. scanf (); > for reading inputs and storing them in allocated arguments
+	1.%[*][width][length]specifier
+	2.https://cplusplus.com/reference/cstdio/scanf/
