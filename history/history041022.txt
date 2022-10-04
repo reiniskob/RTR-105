@@ -1,0 +1,44 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https:/github.com/reiniskob/RTR-105
+    4  cd RTR-105
+    5  ls
+    6  git clone https://github.com/reiniskob/RTR-105
+    7  cd RTR-105
+    8  ls
+    9  mkdir Class_07
+   10  ls
+   11  cd CLass_07
+   12  cd Class_07
+   13  ls
+   14  ls -lat
+   15  nano
+   16  ls
+   17  nano
+   18  cat printf_example
+   19  ls
+   20  cat printf_example.txt
+   21  mv printf_example.txt printf_example.c
+   22  ls
+   23  gcc printf_example.c printf_example.out
+   24  gcc printf_example.c -o printf_example.out
+   25  ls -lt
+   26  ./printf_example.out
+   27  nano cat printf_example
+   28  nano printf_example.c
+   29  gcc printf_example.c -o printf_example.out
+   30  ./printf_example.out
+   31  nano scanf_example.c
+   32  gcc scanf_example.c -o scanf_example.out
+   33  ls
+   34  ./scanf_example.out
+   35  nano scanf_example.c
+   36  ./scanf_example.out
+   37  ls
+   38  cd ..
+   39  ld
+   40  ls
+   41  ./git-upload
+   42  cd history
+   43  ls
+   44  history > history041022.txt
