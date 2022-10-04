@@ -1,0 +1,23 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/reiniskob/RTR-105
+    4  cd RTR-105
+    5  ls
+    6  cd Class_07
+    7  ls
+    8  mkdir Class_08
+    9  ls
+   10  mv Class_08 RTR-105
+   11  ls
+   12  mv RTR-105  Class_08
+   13  mv Class_08 ~/RTR-105
+   14  ls
+   15  cd ..
+   16  ls
+   17  cd Class_08
+   18  cd ..
+   19  nano README.md
+   20  ./git-upload 08.1
+   21  cd history
+   22  ls
+   23  history > history041022_1.txt
