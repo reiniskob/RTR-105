@@ -1,0 +1,73 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/reiniskob/RTR-105
+    4  cd RTR-105
+    5  ls
+    6  cd Class_07
+    7  ls
+    8  mkdir Class_08
+    9  ls
+   10  mv Class_08 RTR-105
+   11  ls
+   12  mv RTR-105  Class_08
+   13  mv Class_08 ~/RTR-105
+   14  ls
+   15  cd ..
+   16  ls
+   17  cd Class_08
+   18  cd ..
+   19  nano README.md
+   20  ./git-upload 08.1
+   21  cd history
+   22  ls
+   23  history > history041022_1.txt
+   24  ls
+   25  ./git-upload 08.1
+   26  cd ..
+   27  ./git-upload 08.1
+   28  ./git-upload _08.1
+   29  cd Class_07
+   30  ls
+   31  cat scanf_example.c
+   32  gcc scanf_example.c -o scanf_example.out
+   33  ls
+   34  ./scanf_example
+   35  ./scanf_example.out
+   36  nano scanf_example.out
+   37  nano scanf_example.c
+   38  gcc scanf_example.c -o scanf_example.out
+   39  ./scanf_example.out
+   40  nano scanf_example.c
+   41  gcc scanf_example.c -o scanf_example.out
+   42  ./scanf_example.out
+   43  nano scanf_example.c
+   44  gcc scanf_example.c -o scanf_example.out
+   45  ./scanf_example.out
+   46  as
+   47  echo $
+   48  nano backslashes.c
+   49  gcc backslashes.c -o backslashes.out
+   50  ./ backslashes.out
+   51  ./backslashes.out
+   52  nano backslashes.c
+   53  gcc backslashes.c -o backslashes.out
+   54  ./backslashes.out
+   55  ls
+   56  cd Class_07
+   57  ls
+   58  cat printf_example.c
+   59  R\cd RTR-105
+   60  ls
+   61  cd RTR-105
+   62  ls
+   63  nano README.md
+   64  rm README.md.save
+   65  ls
+   66  cd Class_08
+   67  ls
+   68  ./git-upload _08.2
+   69  cd ..
+   70  ./git-upload _08.2
+   71  cd history
+   72  ls
+   73  history > history041022_2
