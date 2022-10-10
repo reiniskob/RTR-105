@@ -117,7 +117,17 @@ variables lieto kad nepieciešams no command line mainīt kaut ko scriptā bez t
 1. main() > funkcija
 2. int > answer will be an intiger
 3. return skaitls ; > if the command fails it will show where the command failed
-4. \n > moves cursor to next line
+4. \escape charecter:
+	1. \a > bip
+	2. \b > backspace
+	3. \n > new line
+	4. \r > moves cursot to the start of the line
+	5. \t > tab
+	6. \v > vertical tab
+	7. \\ > backslash
+	8. \' > apostrophe
+	9. \" > double quotation line
+	10. \? > Question mark
 5. printf (); > for displaying format outputs
 	1. %[flags][width][.precision][length]specifier
 	2. https://cplusplus.com/reference/cstdio/printf/
