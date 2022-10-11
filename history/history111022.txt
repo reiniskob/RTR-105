@@ -1,0 +1,56 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/reiniskob/RTR-105
+    4  ls
+    5  cd RTR-105
+    6  ls
+    7  mkdir Class_09
+    8  ls
+    9  cd Class_09
+   10  nano char_data_type.C
+   11  ls
+   12  ls -la
+   13  nano .char_data_type.C.swp
+   14  vim -r .swp
+   15  vim -r char_data_type.C.swp
+   16  vim -r .char_data_type.C.swp
+   17  vim char_data_type.c
+   18  nano .char_data_type.C.swp
+   19  nano char_data_type
+   20  nano char_data_type.c
+   21  gcc char_data_type.c -o char_data_type.out
+   22  ./char_data_type.out
+   23  nano char_data_type.c
+   24  gcc char_data_type.c -o char_data_type.out
+   25  ./char_data_type.out
+   26  nano char_data_type.c
+   27  gcc char_data_type.c -o char_data_type.out
+   28  ./char_data_type.out
+   29  nano char_data_type.c
+   30  gcc char_data_type.c -o char_data_type.out
+   31  ./char_data_type.out
+   32  nano char_data_type.c
+   33  gcc char_data_type.c -o char_data_type.out
+   34  ./char_data_type.out
+   35  nano char_data_type.c
+   36  gcc char_data_type.c -o char_data_type.out
+   37  ./char_data_type.out
+   38  nano char_data_type.c
+   39  gcc char_data_type.c -o char_data_type.out
+   40  nano char_data_type.c
+   41  gcc char_data_type.c -o char_data_type.out
+   42  nano char_data_type.c
+   43  gcc char_data_type.c -o char_data_type.out
+   44  nano char_data_type.c
+   45  gcc char_data_type.c -o char_data_type.out
+   46  ./char_data_type.out
+   47  nano char_data_type.c
+   48  ./char_data_type.out
+   49  gcc char_data_type.c -o char_data_type.out
+   50  ./char_data_type.out
+   51  nano char_data_type.c
+   52  cd ...
+   53  cd ..
+   54  cd history
+   55  ls
+   56  history > history111022.txt
