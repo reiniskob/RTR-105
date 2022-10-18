@@ -134,3 +134,9 @@ variables lieto kad nepieciešams no command line mainīt kaut ko scriptā bez t
 6. scanf (); > for reading inputs and storing them in allocated arguments
 	1.%[*][width][length]specifier
 	2.https://cplusplus.com/reference/cstdio/scanf/
+7. operations
+	1. mathematical
+		1. +
+		2. -
+		3. *
+		4. /

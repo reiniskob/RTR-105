@@ -1,0 +1,144 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/reiniskob/RTR-105
+    4  cd RTR-05
+    5  cd RTR-105
+    6  ls
+    7  mkdir Class_10
+    8  cd Class_10
+    9  ls
+   10  nano operations_test.c
+   11  cd ..
+   12  cd Uzdevumi
+   13  ls
+   14  cat base.c
+   15  cd ..
+   16  ls
+   17* 
+   18  ls
+   19  nano operations_test.c
+   20  gcc operations_test.c - operations_test.out
+   21  gcc operations_test.c -o operations_test.out
+   22  nano operations_test.c
+   23  gcc operations_test.c -o operations_test.out
+   24  ls
+   25  ./operations_test.out
+   26  nano operations_test.c
+   27  gcc operations_test.c -o operations_test.out
+   28  nano operations_test.c
+   29  ./operations_test.out
+   30  nano operations_test.c
+   31  gcc operations_test.c -o operations_test.out
+   32  ./operations_test.out
+   33  nano operations_test.c
+   34  gcc operations_test.c -o operations_test.out
+   35  nano operations_test.c
+   36  gcc operations_test.c -o operations_test.out
+   37  ./operations_test.out
+   38  nano operations_test.c
+   39  gcc operations_test.c -o operations_test.out
+   40  ./operations_test.out
+   41  nano multiplication.c
+   42  nano operations_test.c
+   43  nano multiplication.c
+   44  gcc multiplication.c -o multiplication.out
+   45  ./multiplication.c
+   46  ./multiplication.out
+   47  nano multiplication.c
+   48  gcc multiplication.c -o multiplication.out
+   49  ./multiplication.out
+   50  nano multiplication.c
+   51  gcc multiplication.c -o multiplication.out
+   52  ./multiplication.out
+   53  nano multiplication.c
+   54  gcc multiplication.c -o multiplication.out
+   55  nano multiplication.c
+   56  gcc multiplication.c -o multiplication.out
+   57  ./multiplication.out
+   58  nano multiplication.c
+   59  gcc multiplication.c -o multiplication.out
+   60  ./multiplication.out
+   61  nano multiplication.c
+   62  gcc multiplication.c -o multiplication.out
+   63  ./multiplication.out
+   64  nano multiplication.c
+   65  gcc multiplication.c -o multiplication.out
+   66  nano multiplication.c
+   67  gcc multiplication.c -o multiplication.out
+   68  ./multiplication.out
+   69  gcc multiplication.c -o multiplication.out
+   70  nano multiplication.c
+   71  gcc multiplication.c -o multiplication.out
+   72  ./multiplication.out
+   73  nano multiplication.c
+   74  gcc multiplication.c -o multiplication.out
+   75  ./multiplication.out
+   76  nano multiplication.c
+   77  gcc multiplication.c -o multiplication.out
+   78  ./multiplication.out
+   79  nano multiplication.c
+   80  gcc multiplication.c -o multiplication.out
+   81  ./multiplication.out
+   82  nano multiplication.c
+   83  gcc multiplication.c -o multiplication.out
+   84  ./multiplication.out
+   85  nano multiplication.c
+   86  nano divison.c
+   87  gcc divison.c -o divison.out
+   88  ./divison.out
+   89  gcc divison.c -o divison.out
+   90  nano divison.c
+   91  gcc divison.c -o divison.out
+   92  nano divison.c
+   93  gcc divison.c -o divison.out
+   94  ./divison.out
+   95  gcc divison.c -o divison.out
+   96  nano divison.c
+   97  gcc divison.c -o divison.out
+   98  ./divison.out
+   99  gcc divison.c -o divison.out
+  100  nano divison.c
+  101  gcc divison.c -o divison.out
+  102  ./divison.out
+  103  nano divison.c
+  104  gcc divison.c -o divison.out
+  105  ./divison.out
+  106  nano divison.c
+  107  gcc divison.c -o divison.out
+  108  ./divison.out
+  109  nano divison.c
+  110  gcc divison.c -o divison.out
+  111  ./divison.out
+  112  gcc divison.c -o divison.out
+  113  nano divison.c
+  114  gcc divison.c -o divison.out
+  115  ./divison.out
+  116  nano divison.c
+  117  gcc divison.c -o divison.out
+  118  ./divison.out
+  119  gcc divison.c -o divison.out
+  120  nano divison.c
+  121  gcc divison.c -o divison.out
+  122  nano divison.c
+  123  ./divison.out
+  124  gcc divison.c -o divison.out
+  125  nano divison.c
+  126  gcc divison.c -o divison.out
+  127  ./divison.out
+  128  nano char_int.c
+  129  gcc char_int.c -o char_int.out
+  130  nano char_int.c
+  131  gcc char_int.c -o char_int.out
+  132  ./char_int.out
+  133  nano char_int.c
+  134  gcc char_int.c -o char_int.out
+  135  ./char_int.out
+  136  nano char_int.c
+  137  gcc char_int.c -o char_int.out
+  138  ./char_int.out
+  139  cd ..
+  140  ls
+  141  history
+  142  cd history
+  143  ls
+  144  history > history181022.txt
