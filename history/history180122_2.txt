@@ -1,0 +1,697 @@
+    1  ls
+    2  cd ..
+    3  cd
+    4  cd Desktop
+    5  CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDcd DesktopDDDDDDDDDD
+    6  rm -i
+    7  a
+    8  cbuilderx
+    9  mcmc
+   10  mc
+   11  sudo apt instal cbuilderx
+   12  qtcreator
+   13  sudo apt install qtcreator
+   14  firefox
+   15  nano README.md
+   16  cd Download
+   17  cd Downloads
+   18  cd RTR-1205
+   19  cd RTR-105
+   20  nano README.md
+   21  git bash
+   22  sudo apt install git
+   23  git bash
+   24  git add
+   25  cd downloads
+   26  cd Downloads
+   27  git clone https://github.com/reiniskob/RTR-105.git
+   28  cat README.md
+   29  nano READMe.md
+   30  cat README.md
+   31  cd
+   32  cat README.md
+   33  ls -l
+   34  ls -la
+   35  cd Downloads
+   36  ls
+   37  cd RTR-105
+   38  cat README.md
+   39  nano README.md
+   40  cat README.md
+   41  git add.
+   42  git add
+   43  git add README.md
+   44  git commit -m "README.md"
+   45  git push origin main
+   46  git commit -m "README.md"
+   47  --global
+   48  --global user.name "reiniskob"
+   49  git config -- global user.email "reiniskob@gmail.com"
+   50  git config --global user.email "reiniskob@gmail.com"
+   51  git config --global user.name "reiniskob"
+   52  gitr commot -m "README.md"
+   53  git commit -m "README.md"
+   54  git push README.md
+   55  git commit -m "README.md"
+   56  git push README.md
+   57  ls
+   58  ls -alt
+   59  ls -a
+   60  ls -l
+   61  git add README.md
+   62  git push origin main
+   63  git commit -m "README.md"
+   64  cat README.md
+   65  git config --global user.email "reiniskob@gmail.com"
+   66  git config --global user.name "reiniskob"
+   67  git commit -m "README.md"
+   68  git push origin main
+   69  git commit -m "README.md"
+   70  git push origin main
+   71  cd qtcreator
+   72  ls -la
+   73  cd ctcreator
+   74  sudo apt install qtcreator
+   75  cd qtcreator
+   76  qtcreator
+   77  sudo apt-get instal qt5-default
+   78  sudo apt install qt5-default
+   79  sudo apt-get install qt5-default
+   80  apt install iostream
+   81  apt install iostream.h
+   82  sudo apt update
+   83  y
+   84  cd Downloads
+   85  ls -al;h
+   86  ls -h
+   87  ls -ah
+   88  ls -alh
+   89  ls -lh
+   90  ls -al
+   91  sudo apt-get install qt5-default
+   92  sudo apt-get install qt4-dev-tools libqt4-dev libqt4-core libqt4-gui
+   93  sudo apt-get install qt5-default
+   94  rmdir qtcreator
+   95  ls
+   96  cd
+   97  cd Desktop
+   98  ls
+   99  cd
+  100  rmdir cqcreator
+  101  rm qtcreator
+  102  sudo apt-get remove qtcreator
+  103  init 0
+  104  ls
+  105  ls -al
+  106  cd /
+  107  cd snap
+  108  ls -al
+  109  cat README.md
+  110  cat README
+  111  cd
+  112  sudo snap isntall --classic code
+  113  sudo snap install --classic code
+  114  code --version
+  115  sudo snap remove code
+  116  sudo apt remove code
+  117  cd Downloads
+  118  sudo snap install --classic code
+  119  code --version
+  120  sudo apt-get install gcc
+  121  cd
+  122  sudo apt install build-essential
+  123  ls -alh
+  124  pwd
+  125  cd Desktop
+  126  ls 
+  127  cd First C thing
+  128  cd ..
+  129  cd..
+  130  cd //
+  131  cd /
+  132  cd ///
+  133  cd Desktop
+  134  cd
+  135  cd Desktop
+  136  cd First C thing
+  137  cd 'First C thing'
+  138  cd First C Thing
+  139  cd "Firs C thing"
+  140  cd "First C thing"
+  141  cd "First C Thing"
+  142  ls
+  143  git commit -m "main.c"
+  144  git push origin main
+  145  git config --global user.email "reiniskob@gmail.com"
+  146  git config --global user.name "reiniskob"
+  147  git commit -m "main.c"
+  148  git add -m "main.c"
+  149  firefox&
+  150  cd RTR-105
+  151  ls
+  152  git clone https://github.com/reiniskob/RTR-105
+  153  ls
+  154  cd RTR-105
+  155  ls
+  156  git-upload
+  157  ./gitupload
+  158  ./git-upload
+  159  ls
+  160  PATH=$PATH
+  161  git-upload
+  162  ./add
+  163  ./git-upload f
+  164  nano README.md
+  165  ls
+  166  ./git-upload f
+  167  ls
+  168  git clone https://github.com/reiniskob/RTR-105
+  169  cd RTR-105
+  170  ls
+  171  cat script.sh
+  172  nano tests.c
+  173  ls
+  174  cd First C THing
+  175  cd First C Thing
+  176  cd FirstCThing
+  177  cd 'First C Thing'
+  178  la
+  179  ls
+  180  cat main.c
+  181  mv main.c RTR-105
+  182  ls
+  183  cd RTR-150
+  184  cd RTR-105
+  185  c
+  186  .
+  187  //
+  188  ..
+  189  cd /
+  190  ls
+  191  cd
+  192  cd ..
+  193  cd RTR-105
+  194  ls
+  195  cd
+  196  ls
+  197  cd RTR105
+  198  cd RTR-105
+  199  ls
+  200  mv main.c
+  201  mv main.c ~/RTR-105
+  202  ls
+  203  cd 'First C Thing'
+  204  ls
+  205  nano tests.c
+  206  cat tests.c
+  207  gcc tests.c -o tests.out
+  208  ls -l tests.out
+  209  ./tests.out
+  210  ls
+  211  cd RTR
+  212  cd
+  213  ls
+  214  cd RTR-105
+  215  ls
+  216  nano tests.c
+  217  fg
+  218  cat tests.c
+  219  ls
+  220  clone https://github.com/reiniskob/RTR-105
+  221  git clone https://github.com/reiniskob/RTR-105
+  222  rmdir RTR-105
+  223  rmdir -r RTR-105
+  224  rm -r RTR-105
+  225  chmod RTR-105 764
+  226  chmod 764 RTR-105
+  227  rmdir -r RTR-105
+  228  rm -r RTR-105
+  229  d
+  230  git clone https://github.com/reiniskob/RTR-105
+  231  cd RTR-105
+  232  ls
+  233  mkdir Uzdevumi
+  234  ls
+  235  cd Uzdevumi
+  236  ls
+  237  nano multiplication
+  238  ls
+  239  rm multiplication
+  240  ls
+  241  gcc multiplication -o multipication.out
+  242  gcc multiplication.c -o multipication.out
+  243  nano multiplication.c
+  244  gcc multiplication.c -o multipication.out
+  245  nano multiplication.c
+  246  gcc multiplication.c -o multipication.out
+  247  nano multiplication.c
+  248  gcc multiplication.c -o multipication.out
+  249  nano multiplication.c
+  250  gcc multiplication.c -o multipication.out
+  251  nano multiplication.c
+  252  gcc multiplication.c -o multipication.out
+  253  nano multiplication.c
+  254  gcc multiplication.c -o multipication.out
+  255  nano multiplication.c
+  256  gcc multiplication.c -o multipication.out
+  257  nano multiplication.c
+  258  gcc multiplication.c -o multipication.out
+  259  nano multiplication.c
+  260  gcc multiplication.c -o multipication.out
+  261  ls
+  262  ./multiplication.c
+  263  chmod 764 multiplication.c
+  264  ./multiplication.c
+  265  nano multiplication.c
+  266  ./multiplication.c
+  267  nano multiplication.c
+  268  aaa
+  269  ls
+  270  nano multiplication.c
+  271  ls
+  272  gcc 123.c -o 123.out
+  273  ./123.out
+  274  nano multiplication.c
+  275  nano 123.c
+  276  nano multiplication.c
+  277  nano 123.c
+  278  gcc 123.c -o 123.out
+  279  nano 123.c
+  280  gcc 123.c -o 123.out
+  281  nano 123.c
+  282  gcc 123.c -o 123.out
+  283  nano 123.c
+  284  gcc 123.c -o 123.out
+  285  nano 123.c
+  286  ./123.out
+  287  nano 123.c
+  288  gcc 123.c -o 123.out
+  289  nano 123.c
+  290  gcc 123.c -o 123.out
+  291  nano 123.c
+  292  gcc 123.c -o 123.out
+  293  ./123.out
+  294  nano 123.c
+  295  gcc 123.c -o 123.out
+  296  ./123.out
+  297  nano 123.c
+  298  gcc 123.c -o 123.out
+  299  ./123.out
+  300  nano 123.c
+  301  gcc 123.c -o 123.out
+  302  ./123.out
+  303  nano 123.c
+  304  gcc 123.c -o 123.out
+  305  nano 123.c
+  306  gcc 123.c -o 123.out
+  307  ./123.out
+  308  nano 123.c
+  309  gcc 123.c -o 123.out
+  310  nano 123.c
+  311  gcc 123.c -o 123.out
+  312  nano 123.c
+  313  gcc 123.c -o 123.out
+  314  nano 123.c
+  315  gcc 123.c -o 123.out
+  316  ./123.out
+  317  mv 123.c reizinasana.c
+  318  ls
+  319  nano reizinasana.c
+  320  ls
+  321  gcc reizinasana.c -o reizinasana.out
+  322  ./reizinasana.out
+  323  nano reizinasana.c
+  324  gcc reizinasana.c -o reizinasana.out
+  325  ./reizinasana.out
+  326  nano reizinasana.c
+  327  gcc reizinasana.c -o reizinasana.out
+  328  ./reizinasana.out
+  329  nano reizinasana.c
+  330  gcc reizinasana.c -o reizinasana.out
+  331  ./reizinasana.out
+  332  400000 100000
+  333  ./reizinasana.out
+  334  cd ..
+  335  cd history
+  336  ls
+  337  histroy071022.txt
+  338  history > histroy071022.txt
+  339  ls
+  340  cd ..
+  341  ls
+  342  ./git-upload
+  343  ls
+  344  cd RTR-105
+  345  ls
+  346  cat first.c
+  347  rm first.i
+  348  ls
+  349  cd Class_07
+  350  ls
+  351  cat backslashes.c
+  352  cd ..
+  353  ls
+  354  nano README.md
+  355  ./git upload 10.10.22
+  356  ./git-upload 10.10.22
+  357  git-pull https://github.com/reiniskob/RTR-105
+  358  git pull https://github.com/reiniskob/RTR-105
+  359  ./git-upload 10.10.22
+  360  ls
+  361  cd ..
+  362  ./git-upload 1010
+  363  cd RTR-105
+  364  ./git-upload 101022
+  365  ./git-upload
+  366  cat git-upload
+  367  git add
+  368  git add .
+  369  git config --global user.email "reiniskob@gmail.com"
+  370  git config --global user.name "reiniskob"
+  371  git commit -m "RTR-105"
+  372  git push origin main
+  373  git push -f  origin master
+  374  git push origin master
+  375  cd
+  376  ls
+  377  rmdir RTR-105
+  378  rmdir -r  RTR-105
+  379  rm -r  RTR-105
+  380  ls
+  381  RTR-105
+  382  cd RTR-105
+  383  ls
+  384  chmod README.md 764
+  385  chmod 764  README.md
+  386  rm -r  RTR-105
+  387  cd
+  388  rm -r  RTR-105
+  389  cd RTR-105
+  390  ls
+  391  cat README.md
+  392  ls
+  393  chmod 764  README.md
+  394  rm README.md
+  395  ls
+  396  rm -r Class_07
+  397  ls
+  398  cd
+  399  rm -r  RTR-105
+  400  chmod 
+  401  chmod 764 RTR-105
+  402  rm -r  RTR-105
+  403  ls -lta
+  404  chmod 777 RTR-105
+  405  ls -lta
+  406  rm -r  RTR-105
+  407  ls
+  408  chmod 764 RTR-105
+  409  ls
+  410  cd 'Fucking backup'
+  411  ls
+  412  mv RTR-105 ~/~
+  413  ls
+  414  cd
+  415  ls
+  416  cd ~
+  417  ls
+  418  cd
+  419  ls
+  420  git clone https://github.com/reiniskob/RTR-105
+  421  ls
+  422  RTR-105
+  423  cd RTR-105
+  424  ls
+  425  nano README.md
+  426  ./git-upload
+  427  ls
+  428  cxd
+  429  cd
+  430  ls
+  431  cd RTR-105
+  432  git clone https://github.com/reiniskob/RTR-105
+  433  ls
+  434  cd RTR-105
+  435  ls
+  436  cd Uzdevumi
+  437  ls
+  438  vim 
+  439  sudo apt instal vim
+  440  sudo apt update
+  441  sudo apt search vim
+  442  sudo apt install vim
+  443  vim --version
+  444  vim
+  445  nano dec2bin
+  446  ls
+  447  nano 'Base code.c
+  448  sa
+  449  nano 'Base code.c'
+  450  ls
+  451  rm 'Base code.c'
+  452  ls
+  453  nano dec2bin
+  454  ls
+  455  ls base_code.c
+  456  nano base_code.c
+  457  nano dec2bin
+  458  nano base_code.c
+  459  nano dec2bin
+  460  gcc dec2bin.c -o 
+  461  nano dec2bin
+  462  ls
+  463  rm dec2bin
+  464  ls
+  465  gcc dec2bin.c -o dec2bin.out
+  466  nano dec2bin.c
+  467  gcc dec2bin.c -o dec2bin.out
+  468  nano dec2bin.c
+  469  gcc dec2bin.c -o dec2bin.out
+  470  ./dec2bin.out
+  471  2
+  472  nano dec2bin.c
+  473  2
+  474  gcc dec2bin.c -o dec2bin.out
+  475  ./dec2bin.out
+  476  nano dec2bin.c
+  477  gcc dec2bin.c -o dec2bin.out
+  478  ./dec2bin.out
+  479  nano dec2bin.c
+  480  gcc dec2bin.c -o dec2bin.out
+  481  ./dec2bin.out
+  482  nano dec2bin.c
+  483  ./dec2bin.out
+  484  nano dec2bin.c
+  485  gcc dec2bin.c -o dec2bin.out
+  486  ./dec2bin.out
+  487  nano dec2bin.c
+  488  gcc dec2bin.c -o dec2bin.out
+  489  ./dec2bin.out
+  490  gcc dec2bin.c -o dec2bin.out
+  491  ./dec2bin.out
+  492  nano dec2bin.c
+  493  gcc dec2bin.c -o dec2bin.out
+  494  ./dec2bin.out
+  495  nano dec2bin.c
+  496  gcc dec2bin.c -o dec2bin.out
+  497  ./dec2bin.out
+  498  nano dec2bin.c
+  499  gcc dec2bin.c -o dec2bin.out
+  500  nano dec2bin.c
+  501  gcc dec2bin.c -o dec2bin.out
+  502  ./dec2bin.out
+  503  nano dec2bin.c
+  504  gcc dec2bin.c -o dec2bin.out
+  505  ./dec2bin.out
+  506  nano dec2bin.c
+  507  gcc dec2bin.c -o dec2bin.out
+  508  ./dec2bin.out
+  509  nano dec2bin.c
+  510  gcc dec2bin.c -o dec2bin.out
+  511  nano dec2bin.c
+  512  gcc dec2bin.c -o dec2bin.out
+  513  ./dec2bin.out
+  514  nano dec2bin.c
+  515  gcc dec2bin.c -o dec2bin.out
+  516  ./dec2bin.out
+  517  nano dec2bin.c
+  518  gcc dec2bin.c -o dec2bin.out
+  519  nano dec2bin.c
+  520  ./dec2bin.out
+  521  nano dec2bin.c
+  522  gcc dec2bin.c -o dec2bin.out
+  523  ./dec2bin.out
+  524  nano dec2bin.c
+  525  gcc dec2bin.c -o dec2bin.out
+  526  nano dec2bin.c
+  527  gcc dec2bin.c -o dec2bin.out
+  528  ./dec2bin.out
+  529  nano dec2bin.c
+  530  gcc dec2bin.c -o dec2bin.out
+  531  ./dec2bin.out
+  532  nano dec2bin.c
+  533  gcc dec2bin.c -o dec2bin.out
+  534  ./dec2bin.out
+  535  gcc dec2bin.c -o dec2bin.out
+  536  nano dec2bin.c
+  537  nano shift.c
+  538  gcc shift.c -o shift.out
+  539  nano shift.c
+  540  gcc shift.c -o shift.out
+  541  ./shift.out
+  542  nano shift.c
+  543  gcc shift.c -o shift.out
+  544  ./shift.out
+  545  nano shift.c
+  546  gcc shift.c -o shift.out
+  547  ./shift.out
+  548  gcc shift.c -o shift.out
+  549  nano shift.c
+  550  gcc shift.c -o shift.out
+  551  nano shift.c
+  552  gcc shift.c -o shift.out
+  553  ./shift.out
+  554  nano shift.c
+  555  gcc shift.c -o shift.out
+  556  nano shift.c
+  557  gcc shift.c -o shift.out
+  558  nano shift.c
+  559  gcc shift.c -o shift.out
+  560  ./shift.out
+  561  nano shift.c
+  562  gcc shift.c -o shift.out
+  563  ./shift.out
+  564  nano shift.c
+  565  nano dec2bin.c
+  566  gcc dec2bin.c -o dec2bin.out
+  567  nano dec2bin.c
+  568  gcc dec2bin.c -o dec2bin.out
+  569  nano dec2bin.c
+  570  gcc dec2bin.c -o dec2bin.out
+  571  ./dec2bin.out
+  572  nano dec2bin.c
+  573  gcc dec2bin.c -o dec2bin.out
+  574  nano dec2bin.c
+  575  gcc dec2bin.c -o dec2bin.out
+  576  ./dec2bin.out
+  577  nano dec2bin.c
+  578  gcc dec2bin.c -o dec2bin.out
+  579  nano dec2bin.c
+  580  gcc dec2bin.c -o dec2bin.out
+  581  nano dec2bin.c
+  582  gcc dec2bin.c -o dec2bin.out
+  583  nano dec2bin.c
+  584  gcc dec2bin.c -o dec2bin.out
+  585  nano dec2bin.c
+  586  gcc dec2bin.c -o dec2bin.out
+  587  nano dec2bin.c
+  588  gcc dec2bin.c -o dec2bin.out
+  589  ./dec2bin.out
+  590  nano dec2bin.c
+  591  gcc dec2bin.c -o dec2bin.out
+  592  ./dec2bin.out
+  593  nano dec2bin.c
+  594  gcc dec2bin.c -o dec2bin.out
+  595  ./dec2bin.out
+  596  nano sort.c
+  597  cat base.c
+  598  cat base_code.c
+  599  mv base_code.c base.c
+  600  ls
+  601  cat base.c
+  602  nano sort.c
+  603  cd ..
+  604  ls
+  605  cd history
+  606  ls
+  607  history > history161022.txt
+  608  ls
+  609  cd ..
+  610  ./git_upload
+  611  ls
+  612  ./git-upload
+  613  git clone https://github.com/reiniskob/RTR-105
+  614  cd
+  615  ld
+  616  ls
+  617  cd RTR-105
+  618  ls
+  619  cd Class_10
+  620  ls
+  621  nano dect2bin.c
+  622  nano dec2bin.c
+  623  rm dect2bin.c
+  624  ls
+  625  nano dec2bin.c
+  626  gcc dec2bin.c -o dec2bin.out
+  627  ./dec2bin.c
+  628  chmod dec2bin.out 764
+  629  chmod --help
+  630  chmod 764  dec2bin.out
+  631  ./dec2bin.c
+  632  chmod 777  dec2bin.out
+  633  ./dec2bin.c
+  634  ./dec2bin.out
+  635  nano dec2bin.c
+  636  gcc dec2bin.c -o dec2bin.out
+  637  nano dec2bin.c
+  638  gcc dec2bin.c -o dec2bin.out
+  639  nano dec2bin.c
+  640  gcc dec2bin.c -o dec2bin.out
+  641  nano dec2bin.c
+  642  gcc dec2bin.c -o dec2bin.out
+  643  ./dec2bin.out
+  644  nano dec2bin.c
+  645  gcc dec2bin.c -o dec2bin.out
+  646  ./dec2bin.out
+  647  gcc dec2bin.c -o dec2bin.out
+  648  nano dec2bin.c
+  649  gcc dec2bin.c -o dec2bin.out
+  650  ./dec2bin.out
+  651  nano dec2bin.c
+  652  gcc dec2bin.c -o dec2bin.out
+  653  ./dec2bin.out
+  654  nano dec2bin.c
+  655  gcc dec2bin.c -o dec2bin.out
+  656  ./dec2bin.out
+  657  gcc dec2bin.c -o dec2bin.out
+  658  ./dec2bin.out
+  659  gcc dec2bin.c -o dec2bin.out
+  660  nano dec2bin.c
+  661  gcc dec2bin.c -o dec2bin.out
+  662  ./dec2bin.out
+  663  nano dec2bin.c
+  664  gcc dec2bin.c -o dec2bin.out
+  665  ./dec2bin.out
+  666  gcc dec2bin.c -o dec2bin.out
+  667  nano dec2bin.c
+  668  gcc dec2bin.c -o dec2bin.out
+  669  ./dec2bin.out
+  670  nano dec2bin.c
+  671  gcc dec2bin.c -o dec2bin.out
+  672  ./dec2bin.out
+  673  nano dec2bin.c
+  674  gcc dec2bin.c -o dec2bin.out
+  675  nano dec2bin.c
+  676  gcc dec2bin.c -o dec2bin.out
+  677  nano dec2bin.c
+  678  gcc dec2bin.c -o dec2bin.out
+  679  nano dec2bin.c
+  680  gcc dec2bin.c -o dec2bin.out
+  681  nano dec2bin.c
+  682  gcc dec2bin.c -o dec2bin.out
+  683  nano dec2bin.c
+  684  gcc dec2bin.c -o dec2bin.out
+  685  nano dec2bin.c
+  686  gcc dec2bin.c -o dec2bin.out
+  687  nano dec2bin.c
+  688  gcc dec2bin.c -o dec2bin.out
+  689  nano dec2bin.c
+  690  gcc dec2bin.c -o dec2bin.out
+  691  nano dec2bin.c
+  692  cd ..
+  693  ls
+  694  history
+  695  cd history
+  696  ls
+  697  history > history180122_2.txt

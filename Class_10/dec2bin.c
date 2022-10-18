@@ -22,15 +22,19 @@ to get a single bit use &
 #include <stdio.h>
 int main()
 {
+
 unsigned char c1;
-int c2 = 0;
 printf("Enter number:");
 scanf("%c\n", &c1);
 printf("%d\n",c1);
-unsigned char c3 = (unsigned char)(c1 >> c2);
 
-printf("%d",c3 & c2 );
-printf("%d\n",c3);
+int c2 = 0;
+unsigned char c3 = (c1 >> c2);
+printf("%d",c3 & c2);
+
+c2 = c2+1;
+c3 = c1 >> c2);
+printf("%d",c3 & c2);
 
    return 0;
 }
