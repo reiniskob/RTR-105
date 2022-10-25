@@ -4,7 +4,7 @@ int main ()
 unsigned  char c1,n,bin1;
 
 printf ("Enter number: ");
-scanf ("%s", &c1);
+scanf (" %s", &c1);
 n = 8;
 
 c1 = (unsigned char)c1 & 00001111;
