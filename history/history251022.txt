@@ -1,0 +1,1000 @@
+  318  ls
+  319  nano reizinasana.c
+  320  ls
+  321  gcc reizinasana.c -o reizinasana.out
+  322  ./reizinasana.out
+  323  nano reizinasana.c
+  324  gcc reizinasana.c -o reizinasana.out
+  325  ./reizinasana.out
+  326  nano reizinasana.c
+  327  gcc reizinasana.c -o reizinasana.out
+  328  ./reizinasana.out
+  329  nano reizinasana.c
+  330  gcc reizinasana.c -o reizinasana.out
+  331  ./reizinasana.out
+  332  400000 100000
+  333  ./reizinasana.out
+  334  cd ..
+  335  cd history
+  336  ls
+  337  histroy071022.txt
+  338  history > histroy071022.txt
+  339  ls
+  340  cd ..
+  341  ls
+  342  ./git-upload
+  343  ls
+  344  cd RTR-105
+  345  ls
+  346  cat first.c
+  347  rm first.i
+  348  ls
+  349  cd Class_07
+  350  ls
+  351  cat backslashes.c
+  352  cd ..
+  353  ls
+  354  nano README.md
+  355  ./git upload 10.10.22
+  356  ./git-upload 10.10.22
+  357  git-pull https://github.com/reiniskob/RTR-105
+  358  git pull https://github.com/reiniskob/RTR-105
+  359  ./git-upload 10.10.22
+  360  ls
+  361  cd ..
+  362  ./git-upload 1010
+  363  cd RTR-105
+  364  ./git-upload 101022
+  365  ./git-upload
+  366  cat git-upload
+  367  git add
+  368  git add .
+  369  git config --global user.email "reiniskob@gmail.com"
+  370  git config --global user.name "reiniskob"
+  371  git commit -m "RTR-105"
+  372  git push origin main
+  373  git push -f  origin master
+  374  git push origin master
+  375  cd
+  376  ls
+  377  rmdir RTR-105
+  378  rmdir -r  RTR-105
+  379  rm -r  RTR-105
+  380  ls
+  381  RTR-105
+  382  cd RTR-105
+  383  ls
+  384  chmod README.md 764
+  385  chmod 764  README.md
+  386  rm -r  RTR-105
+  387  cd
+  388  rm -r  RTR-105
+  389  cd RTR-105
+  390  ls
+  391  cat README.md
+  392  ls
+  393  chmod 764  README.md
+  394  rm README.md
+  395  ls
+  396  rm -r Class_07
+  397  ls
+  398  cd
+  399  rm -r  RTR-105
+  400  chmod 
+  401  chmod 764 RTR-105
+  402  rm -r  RTR-105
+  403  ls -lta
+  404  chmod 777 RTR-105
+  405  ls -lta
+  406  rm -r  RTR-105
+  407  ls
+  408  chmod 764 RTR-105
+  409  ls
+  410  cd 'Fucking backup'
+  411  ls
+  412  mv RTR-105 ~/~
+  413  ls
+  414  cd
+  415  ls
+  416  cd ~
+  417  ls
+  418  cd
+  419  ls
+  420  git clone https://github.com/reiniskob/RTR-105
+  421  ls
+  422  RTR-105
+  423  cd RTR-105
+  424  ls
+  425  nano README.md
+  426  ./git-upload
+  427  ls
+  428  cxd
+  429  cd
+  430  ls
+  431  cd RTR-105
+  432  git clone https://github.com/reiniskob/RTR-105
+  433  ls
+  434  cd RTR-105
+  435  ls
+  436  cd Uzdevumi
+  437  ls
+  438  vim 
+  439  sudo apt instal vim
+  440  sudo apt update
+  441  sudo apt search vim
+  442  sudo apt install vim
+  443  vim --version
+  444  vim
+  445  nano dec2bin
+  446  ls
+  447  nano 'Base code.c
+  448  sa
+  449  nano 'Base code.c'
+  450  ls
+  451  rm 'Base code.c'
+  452  ls
+  453  nano dec2bin
+  454  ls
+  455  ls base_code.c
+  456  nano base_code.c
+  457  nano dec2bin
+  458  nano base_code.c
+  459  nano dec2bin
+  460  gcc dec2bin.c -o 
+  461  nano dec2bin
+  462  ls
+  463  rm dec2bin
+  464  ls
+  465  gcc dec2bin.c -o dec2bin.out
+  466  nano dec2bin.c
+  467  gcc dec2bin.c -o dec2bin.out
+  468  nano dec2bin.c
+  469  gcc dec2bin.c -o dec2bin.out
+  470  ./dec2bin.out
+  471  2
+  472  nano dec2bin.c
+  473  2
+  474  gcc dec2bin.c -o dec2bin.out
+  475  ./dec2bin.out
+  476  nano dec2bin.c
+  477  gcc dec2bin.c -o dec2bin.out
+  478  ./dec2bin.out
+  479  nano dec2bin.c
+  480  gcc dec2bin.c -o dec2bin.out
+  481  ./dec2bin.out
+  482  nano dec2bin.c
+  483  ./dec2bin.out
+  484  nano dec2bin.c
+  485  gcc dec2bin.c -o dec2bin.out
+  486  ./dec2bin.out
+  487  nano dec2bin.c
+  488  gcc dec2bin.c -o dec2bin.out
+  489  ./dec2bin.out
+  490  gcc dec2bin.c -o dec2bin.out
+  491  ./dec2bin.out
+  492  nano dec2bin.c
+  493  gcc dec2bin.c -o dec2bin.out
+  494  ./dec2bin.out
+  495  nano dec2bin.c
+  496  gcc dec2bin.c -o dec2bin.out
+  497  ./dec2bin.out
+  498  nano dec2bin.c
+  499  gcc dec2bin.c -o dec2bin.out
+  500  nano dec2bin.c
+  501  gcc dec2bin.c -o dec2bin.out
+  502  ./dec2bin.out
+  503  nano dec2bin.c
+  504  gcc dec2bin.c -o dec2bin.out
+  505  ./dec2bin.out
+  506  nano dec2bin.c
+  507  gcc dec2bin.c -o dec2bin.out
+  508  ./dec2bin.out
+  509  nano dec2bin.c
+  510  gcc dec2bin.c -o dec2bin.out
+  511  nano dec2bin.c
+  512  gcc dec2bin.c -o dec2bin.out
+  513  ./dec2bin.out
+  514  nano dec2bin.c
+  515  gcc dec2bin.c -o dec2bin.out
+  516  ./dec2bin.out
+  517  nano dec2bin.c
+  518  gcc dec2bin.c -o dec2bin.out
+  519  nano dec2bin.c
+  520  ./dec2bin.out
+  521  nano dec2bin.c
+  522  gcc dec2bin.c -o dec2bin.out
+  523  ./dec2bin.out
+  524  nano dec2bin.c
+  525  gcc dec2bin.c -o dec2bin.out
+  526  nano dec2bin.c
+  527  gcc dec2bin.c -o dec2bin.out
+  528  ./dec2bin.out
+  529  nano dec2bin.c
+  530  gcc dec2bin.c -o dec2bin.out
+  531  ./dec2bin.out
+  532  nano dec2bin.c
+  533  gcc dec2bin.c -o dec2bin.out
+  534  ./dec2bin.out
+  535  gcc dec2bin.c -o dec2bin.out
+  536  nano dec2bin.c
+  537  nano shift.c
+  538  gcc shift.c -o shift.out
+  539  nano shift.c
+  540  gcc shift.c -o shift.out
+  541  ./shift.out
+  542  nano shift.c
+  543  gcc shift.c -o shift.out
+  544  ./shift.out
+  545  nano shift.c
+  546  gcc shift.c -o shift.out
+  547  ./shift.out
+  548  gcc shift.c -o shift.out
+  549  nano shift.c
+  550  gcc shift.c -o shift.out
+  551  nano shift.c
+  552  gcc shift.c -o shift.out
+  553  ./shift.out
+  554  nano shift.c
+  555  gcc shift.c -o shift.out
+  556  nano shift.c
+  557  gcc shift.c -o shift.out
+  558  nano shift.c
+  559  gcc shift.c -o shift.out
+  560  ./shift.out
+  561  nano shift.c
+  562  gcc shift.c -o shift.out
+  563  ./shift.out
+  564  nano shift.c
+  565  nano dec2bin.c
+  566  gcc dec2bin.c -o dec2bin.out
+  567  nano dec2bin.c
+  568  gcc dec2bin.c -o dec2bin.out
+  569  nano dec2bin.c
+  570  gcc dec2bin.c -o dec2bin.out
+  571  ./dec2bin.out
+  572  nano dec2bin.c
+  573  gcc dec2bin.c -o dec2bin.out
+  574  nano dec2bin.c
+  575  gcc dec2bin.c -o dec2bin.out
+  576  ./dec2bin.out
+  577  nano dec2bin.c
+  578  gcc dec2bin.c -o dec2bin.out
+  579  nano dec2bin.c
+  580  gcc dec2bin.c -o dec2bin.out
+  581  nano dec2bin.c
+  582  gcc dec2bin.c -o dec2bin.out
+  583  nano dec2bin.c
+  584  gcc dec2bin.c -o dec2bin.out
+  585  nano dec2bin.c
+  586  gcc dec2bin.c -o dec2bin.out
+  587  nano dec2bin.c
+  588  gcc dec2bin.c -o dec2bin.out
+  589  ./dec2bin.out
+  590  nano dec2bin.c
+  591  gcc dec2bin.c -o dec2bin.out
+  592  ./dec2bin.out
+  593  nano dec2bin.c
+  594  gcc dec2bin.c -o dec2bin.out
+  595  ./dec2bin.out
+  596  nano sort.c
+  597  cat base.c
+  598  cat base_code.c
+  599  mv base_code.c base.c
+  600  ls
+  601  cat base.c
+  602  nano sort.c
+  603  cd ..
+  604  ls
+  605  cd history
+  606  ls
+  607  history > history161022.txt
+  608  ls
+  609  cd ..
+  610  ./git_upload
+  611  ls
+  612  ./git-upload
+  613  nano dec2bin2.c
+  614  gcc dec2bin2.c -o dec2bin2.out
+  615  nano dec2bin2.c
+  616  gcc dec2bin2.c -o dec2bin2.out
+  617  nano dec2bin2.c
+  618  gcc dec2bin2.c -o dec2bin2.out
+  619  nano dec2bin2.c
+  620  gcc dec2bin2.c -o dec2bin2.out
+  621  nano dec2bin2.c
+  622  gcc dec2bin2.c -o dec2bin2.out
+  623  nano dec2bin2.c
+  624  gcc dec2bin2.c -o dec2bin2.out
+  625  ./dec2bin2.out
+  626  nano dec2bin2.c
+  627  gcc dec2bin2.c -o dec2bin2.out
+  628  ./dec2bin2.out
+  629  gcc dec2bin2.c -o dec2bin2.out
+  630  nano dec2bin2.c
+  631  gcc dec2bin2.c -o dec2bin2.out
+  632  ./dec2bin2.out
+  633  gcc dec2bin2.c -o dec2bin2.out
+  634  ./dec2bin2.out
+  635  nano dec2bin2.c
+  636  gcc dec2bin2.c -o dec2bin2.out
+  637  ./dec2bin2.out
+  638  gcc dec2bin2.c -o dec2bin2.out
+  639  nano dec2bin2.c
+  640  gcc dec2bin2.c -o dec2bin2.out
+  641  ./dec2bin2.out
+  642  nano dec2bin2.c
+  643  gcc dec2bin2.c -o dec2bin2.out
+  644  ./dec2bin2.out
+  645  gcc dec2bin2.c -o dec2bin2.out
+  646  nano dec2bin2.c
+  647  gcc dec2bin2.c -o dec2bin2.out
+  648  nano dec2bin2.c
+  649  gcc dec2bin2.c -o dec2bin2.out
+  650  ./dec2bin2.out
+  651  gcc dec2bin2.c -o dec2bin2.out
+  652  nano dec2bin2.c
+  653  gcc dec2bin2.c -o dec2bin2.out
+  654  ./dec2bin2.out
+  655  gcc dec2bin2.c -o dec2bin2.out
+  656  ./dec2bin2.out
+  657  nano dec2bin2.c
+  658  gcc dec2bin2.c -o dec2bin2.out
+  659  ./dec2bin2.out
+  660  nano dec2bin2.c
+  661  gcc dec2bin2.c -o dec2bin2.out
+  662  nano dec2bin2.c
+  663  ./dec2bin2.out
+  664  nano dec2bin2.c
+  665  gcc dec2bin2.c -o dec2bin2.out
+  666  ./dec2bin2.out
+  667  nano dec2bin2.c
+  668  gcc dec2bin2.c -o dec2bin2.out
+  669  ./dec2bin2.out
+  670  nano dec2bin2.c
+  671  gcc dec2bin2.c -o dec2bin2.out
+  672  ./dec2bin2.out
+  673  nano dec2bin2.c
+  674  gcc dec2bin2.c -o dec2bin2.out
+  675  ./dec2bin2.out
+  676  nano dec2bin2.c
+  677  ./dec2bin2.out
+  678  nano dec2bin2.c
+  679  ./dec2bin2.out
+  680  nano dec2bin2.c
+  681  ./dec2bin2.out
+  682  gcc dec2bin2.c -o dec2bin2.out
+  683  ./dec2bin2.out
+  684  nano dec2bin2.c
+  685  gcc dec2bin2.c -o dec2bin2.out
+  686  ./dec2bin2.out
+  687  2
+  688  ./dec2bin2.out
+  689  2
+  690  nano dec2bin2.c
+  691  gcc dec2bin2.c -o dec2bin2.out
+  692  ./dec2bin2.out
+  693  nano dec2bin2.c
+  694  gcc dec2bin2.c -o dec2bin2.out
+  695  ./dec2bin2.out
+  696  nano dec2bin2.c
+  697  gcc dec2bin2.c -o dec2bin2.out
+  698  ./dec2bin2.out
+  699  nano dec2bin2.c
+  700  ./dec2bin2.out
+  701  gcc dec2bin2.c -o dec2bin2.out
+  702  ./dec2bin2.out
+  703  nano dec2bin2.c
+  704  gcc dec2bin2.c -o dec2bin2.out
+  705  nano dec2bin2.c
+  706  ./dec2bin2.out
+  707  gcc dec2bin2.c -o dec2bin2.out
+  708  nano dec2bin2.c
+  709  gcc dec2bin2.c -o dec2bin2.out
+  710  ./dec2bin2.out
+  711  gcc dec2bin2.c -o dec2bin2.out
+  712  ./dec2bin2.out
+  713  gcc dec2bin2.c -o dec2bin2.out
+  714  ./dec2bin2.out
+  715  nano dec2bin2.c
+  716  gcc dec2bin2.c -o dec2bin2.out
+  717  ./dec2bin2.out
+  718  nano dec2bin2.c
+  719  gcc dec2bin2.c -o dec2bin2.out
+  720  ./dec2bin2.out
+  721  nano dec2bin2.c
+  722  gcc dec2bin2.c -o dec2bin2.out
+  723  ./dec2bin2.out
+  724  nano dec2bin2.c
+  725  gcc dec2bin2.c -o dec2bin2.out
+  726  ./dec2bin2.out
+  727  nano dec2bin2.c
+  728  gcc dec2bin2.c -o dec2bin2.out
+  729  ./dec2bin2.out
+  730  nano dec2bin2.c
+  731  gcc dec2bin2.c -o dec2bin2.out
+  732  ./dec2bin2.out
+  733  gcc dec2bin2.c -o dec2bin2.out
+  734  nano dec2bin2.c
+  735  gcc dec2bin2.c -o dec2bin2.out
+  736  nano dec2bin2.c
+  737  gcc dec2bin2.c -o dec2bin2.out
+  738  nano dec2bin2.c
+  739  ./dec2bin2.out
+  740  nano dec2bin2.c
+  741  gcc dec2bin2.c -o dec2bin2.out
+  742  ./dec2bin2.out
+  743  nano dec2bin2.c
+  744  ./dec2bin2.out
+  745  nano dec2bin2.c
+  746  gcc dec2bin2.c -o dec2bin2.out
+  747  ./dec2bin2.out
+  748  gcc dec2bin2.c -o dec2bin2.out
+  749  ./dec2bin2.out
+  750  nano dec2bin2.c
+  751  gcc dec2bin2.c -o dec2bin2.out
+  752  ./dec2bin2.out
+  753  nano dec2bin2.c
+  754  gcc dec2bin2.c -o dec2bin2.out
+  755  nano dec2bin2.c
+  756  ./dec2bin2.out
+  757  nano dec2bin2.c
+  758  gcc dec2bin2.c -o dec2bin2.out
+  759  nano dec2bin2.c
+  760  gcc dec2bin2.c -o dec2bin2.out
+  761  ./dec2bin2.out
+  762  3
+  763  ./dec2bin2.out
+  764  gcc dec2bin2.c -o dec2bin2.out
+  765  nano dec2bin2.c
+  766  gcc dec2bin2.c -o dec2bin2.out
+  767  ./dec2bin2.out
+  768  nano dec2bin2.c
+  769  gcc dec2bin2.c -o dec2bin2.out
+  770  ./dec2bin2.out
+  771  nano dec2bin2.c
+  772  gcc dec2bin2.c -o dec2bin2.out
+  773  ./dec2bin2.out
+  774  nano dec2bin2.c
+  775  gcc dec2bin2.c -o dec2bin2.out
+  776  ./dec2bin2.out
+  777  gcc nano Symbol2ASCII.c
+  778  nano Symbol2ASCII.c
+  779  nano Symbol2ASCII.c -o nano Symbol2ASCII.out
+  780  gcc Symbol2ASCII.c -o Symbol2ASCII.out
+  781  ./Symbol2ASCII.out
+  782  nano Symbol2ASCII.c
+  783  gcc Symbol2ASCII.c -o Symbol2ASCII.out
+  784  ./Symbol2ASCII.out
+  785  nano dec2bin2.c
+  786  gcc dec2bin2.c -o dec2bin2.out
+  787  ./dec2bin2.out
+  788  nano dec2bin2.c
+  789  gcc dec2bin2.c -o dec2bin2.out
+  790  ./dec2bin2.out
+  791  nano dec2bin2.c
+  792  gcc dec2bin2.c -o dec2bin2.out
+  793  ./dec2bin2.out
+  794  nano dec2bin2.c
+  795  gcc dec2bin2.c -o dec2bin2.out
+  796  ./dec2bin2.out
+  797  nano dec2bin2.c
+  798  gcc dec2bin2.c -o dec2bin2.out
+  799  ./dec2bin2.out
+  800  nano dec2bin2.c
+  801  gcc dec2bin2.c -o dec2bin2.out
+  802  ./dec2bin2.out
+  803  nano dec2bin2.c
+  804  gcc dec2bin2.c -o dec2bin2.out
+  805  nano dec2bin2.c
+  806  gcc dec2bin2.c -o dec2bin2.out
+  807  ./dec2bin2.out
+  808  gcc dec2bin2.c -o dec2bin2.out
+  809  nano dec2bin2.c
+  810  gcc dec2bin2.c -o dec2bin2.out
+  811  nano dec2bin2.c
+  812  ./dec2bin2.out
+  813  nano dec2bin2.c
+  814  gcc dec2bin2.c -o dec2bin2.out
+  815  nano dec2bin2.c
+  816  gcc dec2bin2.c -o dec2bin2.out
+  817  nano dec2bin2.c
+  818  gcc dec2bin2.c -o dec2bin2.out
+  819  nano dec2bin2.c
+  820  gcc dec2bin2.c -o dec2bin2.out
+  821  nano dec2bin2.c
+  822  gcc dec2bin2.c -o dec2bin2.out
+  823  ./dec2bin2.out
+  824  nano dec2bin2.c
+  825  gcc dec2bin2.c -o dec2bin2.out
+  826  ./dec2bin2.out
+  827  nano dec2bin2.c
+  828  gcc dec2bin2.c -o dec2bin2.out
+  829  ./dec2bin2.out
+  830  nano dec2bin2.c
+  831  gcc dec2bin2.c -o dec2bin2.out
+  832  ./dec2bin2.out
+  833  nano dec2bin2.c
+  834  gcc dec2bin2.c -o dec2bin2.out
+  835  ./dec2bin2.out
+  836  nano dec2bin2.c
+  837  gcc dec2bin2.c -o dec2bin2.out
+  838  ./dec2bin2.out
+  839  nano dec2bin2.c
+  840  gcc dec2bin2.c -o dec2bin2.out
+  841  ./dec2bin2.out
+  842  nano dec2bin2.c
+  843  gcc dec2bin2.c -o dec2bin2.out
+  844  ./dec2bin2.out
+  845  nano dec2bin2.c
+  846  gcc dec2bin2.c -o dec2bin2.out
+  847  ./dec2bin2.out
+  848  nano dec2bin2.c
+  849  gcc dec2bin2.c -o dec2bin2.out
+  850  ./dec2bin2.out
+  851  nano dec2bin2.c
+  852  gcc dec2bin2.c -o dec2bin2.out
+  853  ./dec2bin2.out
+  854  gcc dec2bin2.c -o dec2bin2.out
+  855  nano dec2bin2.c
+  856  gcc dec2bin2.c -o dec2bin2.out
+  857  ./dec2bin2.out
+  858  nano dec2bin2.c
+  859  gcc dec2bin2.c -o dec2bin2.out
+  860  ./dec2bin2.out
+  861  nano dec2bin2.c
+  862  gcc dec2bin2.c -o dec2bin2.out
+  863  ./dec2bin2.out
+  864  nano dec2bin2.c
+  865  gcc dec2bin2.c -o dec2bin2.out
+  866  nano dec2bin2.c
+  867  gcc dec2bin2.c -o dec2bin2.out
+  868  nano dec2bin2.c
+  869  gcc dec2bin2.c -o dec2bin2.out
+  870  ./dec2bin2.out
+  871  nano dec2bin2.c
+  872  gcc dec2bin2.c -o dec2bin2.out
+  873  ./dec2bin2.out
+  874  nano dec2bin2.c
+  875  gcc dec2bin2.c -o dec2bin2.out
+  876  ./dec2bin2.out
+  877  nano dec2bin2.c
+  878  gcc dec2bin2.c -o dec2bin2.out
+  879  nano dec2bin2.c
+  880  gcc dec2bin2.c -o dec2bin2.out
+  881  nano dec2bin2.c
+  882  gcc dec2bin2.c -o dec2bin2.out
+  883  ./dec2bin2.out
+  884  nano dec2bin2.c
+  885  gcc dec2bin2.c -o dec2bin2.out
+  886  ./dec2bin2.out
+  887  nano dec2bin2.c
+  888  gcc dec2bin2.c -o dec2bin2.out
+  889  ./dec2bin2.out
+  890  ./dec2bin2.out7
+  891  ./dec2bin2.out
+  892  nano dec2bin2.c
+  893  gcc dec2bin2.c -o dec2bin2.out
+  894  ./dec2bin2.out
+  895  nano dec2bin2.c
+  896  gcc dec2bin2.c -o dec2bin2.out
+  897  nano dec2bin2.c
+  898  gcc dec2bin2.c -o dec2bin2.out
+  899  ./dec2bin2.out
+  900  nano dec2bin2.c
+  901  gcc dec2bin2.c -o dec2bin2.out
+  902  ./dec2bin2.out
+  903  nano dec2bin2.c
+  904  gcc dec2bin2.c -o dec2bin2.out
+  905  ./dec2bin2.out
+  906  gcc dec2bin2.c -o dec2bin2.out
+  907  nano dec2bin2.c
+  908  gcc dec2bin2.c -o dec2bin2.out
+  909  ./dec2bin2.out
+  910  nano dec2bin2.c
+  911  gcc dec2bin2.c -o dec2bin2.out
+  912  ./dec2bin2.out
+  913  nano dec2bin2.c
+  914  gcc dec2bin2.c -o dec2bin2.out
+  915  ./dec2bin2.out
+  916  git clone https://github.com/reiniskob/RTR-105
+  917  cd
+  918  ld
+  919  ls
+  920  cd RTR-105
+  921  ls
+  922  cd Class_10
+  923  ls
+  924  nano dect2bin.c
+  925  nano dec2bin.c
+  926  rm dect2bin.c
+  927  ls
+  928  nano dec2bin.c
+  929  gcc dec2bin.c -o dec2bin.out
+  930  ./dec2bin.c
+  931  chmod dec2bin.out 764
+  932  chmod --help
+  933  chmod 764  dec2bin.out
+  934  ./dec2bin.c
+  935  chmod 777  dec2bin.out
+  936  ./dec2bin.c
+  937  ./dec2bin.out
+  938  nano dec2bin.c
+  939  gcc dec2bin.c -o dec2bin.out
+  940  nano dec2bin.c
+  941  gcc dec2bin.c -o dec2bin.out
+  942  nano dec2bin.c
+  943  gcc dec2bin.c -o dec2bin.out
+  944  nano dec2bin.c
+  945  gcc dec2bin.c -o dec2bin.out
+  946  ./dec2bin.out
+  947  nano dec2bin.c
+  948  gcc dec2bin.c -o dec2bin.out
+  949  ./dec2bin.out
+  950  gcc dec2bin.c -o dec2bin.out
+  951  nano dec2bin.c
+  952  gcc dec2bin.c -o dec2bin.out
+  953  ./dec2bin.out
+  954  nano dec2bin.c
+  955  gcc dec2bin.c -o dec2bin.out
+  956  ./dec2bin.out
+  957  nano dec2bin.c
+  958  gcc dec2bin.c -o dec2bin.out
+  959  ./dec2bin.out
+  960  gcc dec2bin.c -o dec2bin.out
+  961  ./dec2bin.out
+  962  gcc dec2bin.c -o dec2bin.out
+  963  nano dec2bin.c
+  964  gcc dec2bin.c -o dec2bin.out
+  965  ./dec2bin.out
+  966  nano dec2bin.c
+  967  gcc dec2bin.c -o dec2bin.out
+  968  ./dec2bin.out
+  969  gcc dec2bin.c -o dec2bin.out
+  970  nano dec2bin.c
+  971  gcc dec2bin.c -o dec2bin.out
+  972  ./dec2bin.out
+  973  nano dec2bin.c
+  974  gcc dec2bin.c -o dec2bin.out
+  975  ./dec2bin.out
+  976  nano dec2bin.c
+  977  gcc dec2bin.c -o dec2bin.out
+  978  nano dec2bin.c
+  979  gcc dec2bin.c -o dec2bin.out
+  980  nano dec2bin.c
+  981  gcc dec2bin.c -o dec2bin.out
+  982  nano dec2bin.c
+  983  gcc dec2bin.c -o dec2bin.out
+  984  nano dec2bin.c
+  985  gcc dec2bin.c -o dec2bin.out
+  986  nano dec2bin.c
+  987  gcc dec2bin.c -o dec2bin.out
+  988  nano dec2bin.c
+  989  gcc dec2bin.c -o dec2bin.out
+  990  nano dec2bin.c
+  991  gcc dec2bin.c -o dec2bin.out
+  992  nano dec2bin.c
+  993  gcc dec2bin.c -o dec2bin.out
+  994  nano dec2bin.c
+  995  cd ..
+  996  ls
+  997  history
+  998  cd history
+  999  ls
+ 1000  history > history180122_2.txt
+ 1001  ls
+ 1002  cd ..
+ 1003  ./git-upload
+ 1004  init 0
+ 1005  ls
+ 1006  git clone https://github.com/reiniskob/RTR-105
+ 1007  cd RTR-105
+ 1008  ls
+ 1009  cd Uzdevumi
+ 1010  ls
+ 1011  nano if+simple_sort.c
+ 1012  gcc if+simple_sort.c -o if+simple_sort.out
+ 1013  nano if+simple_sort.c
+ 1014  gcc if+simple_sort.c -o if+simple_sort.out
+ 1015  nano if+simple_sort.c
+ 1016  gcc if+simple_sort.c -o if+simple_sort.out
+ 1017  ./if+simple_sort.out
+ 1018  nano if+simple_sort.c
+ 1019  gcc if+simple_sort.c -o if+simple_sort.out
+ 1020  nano if+simple_sort.c
+ 1021  ./if+simple_sort.out
+ 1022  nano if+simple_sort.c
+ 1023  gcc if+simple_sort.c -o if+simple_sort.out
+ 1024  nano if+simple_sort.c
+ 1025  gcc if+simple_sort.c -o if+simple_sort.out
+ 1026  ./if+simple_sort.out
+ 1027  nano if+simple_sort.c
+ 1028  gcc if+simple_sort.c -o if+simple_sort.out
+ 1029  ./if+simple_sort.out
+ 1030  nano if+simple_sort.c
+ 1031  gcc if+simple_sort.c -o if+simple_sort.out
+ 1032  ./if+simple_sort.out
+ 1033  nano if+simple_sort.c
+ 1034  gcc if+simple_sort.c -o if+simple_sort.out
+ 1035  nano if+simple_sort.c
+ 1036  ./if+simple_sort.out
+ 1037  nano if+simple_sort.c
+ 1038  gcc if+simple_sort.c -o if+simple_sort.out
+ 1039  ./if+simple_sort.out
+ 1040  nano if+simple_sort.c
+ 1041  gcc if+simple_sort.c -o if+simple_sort.out
+ 1042  ./if+simple_sort.out
+ 1043  nano if+simple_sort.c
+ 1044  gcc if+simple_sort.c -o if+simple_sort.out
+ 1045  ./if+simple_sort.out
+ 1046  nano if+simple_sort.c
+ 1047  gcc if+simple_sort.c -o if+simple_sort.out
+ 1048  ./if+simple_sort.out
+ 1049  nano if+simple_sort.c
+ 1050  gcc if+simple_sort.c -o if+simple_sort.out
+ 1051  ./if+simple_sort.out
+ 1052  nano if+simple_sort.c
+ 1053  gcc if+simple_sort.c -o if+simple_sort.out
+ 1054  ./if+simple_sort.out
+ 1055  nano if+simple_sort.c
+ 1056  gcc if+simple_sort.c -o if+simple_sort.out
+ 1057  nano if+simple_sort.c
+ 1058  gcc if+simple_sort.c -o if+simple_sort.out
+ 1059  ./if+simple_sort.out
+ 1060  nano if+simple_sort.c
+ 1061  gcc if+simple_sort.c -o if+simple_sort.out
+ 1062  ./if+simple_sort.out
+ 1063  nano if+simple_sort.c
+ 1064  gcc if+simple_sort.c -o if+simple_sort.out
+ 1065  ./if+simple_sort.out
+ 1066  nano if+simple_sort.c
+ 1067  gcc if+simple_sort.c -o if+simple_sort.out
+ 1068  nano if+simple_sort.c
+ 1069  gcc if+simple_sort.c -o if+simple_sort.out
+ 1070  ./if+simple_sort.out
+ 1071  nano if+simple_sort.c
+ 1072  gcc if+simple_sort.c -o if+simple_sort.out
+ 1073  ./if+simple_sort.out
+ 1074  nano if+simple_sort.c
+ 1075  gcc if+simple_sort.c -o if+simple_sort.out
+ 1076  ./if+simple_sort.out
+ 1077  nano if+simple_sort.c
+ 1078  gcc if+simple_sort.c -o if+simple_sort.out
+ 1079  ./if+simple_sort.out
+ 1080  nano if+simple_sort.c
+ 1081  gcc if+simple_sort.c -o if+simple_sort.out
+ 1082  nano if+simple_sort.c
+ 1083  gcc if+simple_sort.c -o if+simple_sort.out
+ 1084  ./if+simple_sort.out
+ 1085  nano if+simple_sort.c
+ 1086  gcc if+simple_sort.c -o if+simple_sort.out
+ 1087  ./if+simple_sort.out
+ 1088  nano if+simple_sort.c
+ 1089  gcc if+simple_sort.c -o if+simple_sort.out
+ 1090  nano if+simple_sort.c
+ 1091  gcc if+simple_sort.c -o if+simple_sort.out
+ 1092  ./if+simple_sort.out
+ 1093  nano if+simple_sort.c
+ 1094  gcc if+simple_sort.c -o if+simple_sort.out
+ 1095  ./if+simple_sort.out
+ 1096  nano if+simple_sort.c
+ 1097  gcc if+simple_sort.c -o if+simple_sort.out
+ 1098  ./if+simple_sort.out
+ 1099  nano if+simple_sort.c
+ 1100  gcc if+simple_sort.c -o if+simple_sort.out
+ 1101  ./if+simple_sort.out
+ 1102  nano if+simple_sort.c
+ 1103  gcc if+simple_sort.c -o if+simple_sort.out
+ 1104  ./if+simple_sort.out
+ 1105  nano if+simple_sort.c
+ 1106  gcc if+simple_sort.c -o if+simple_sort.out
+ 1107  ./if+simple_sort.out
+ 1108  nano if+simple_sort.c
+ 1109  gcc if+simple_sort.c -o if+simple_sort.out
+ 1110  nano if+simple_sort.c
+ 1111  gcc if+simple_sort.c -o if+simple_sort.out
+ 1112  ./if+simple_sort.out
+ 1113  nano if+simple_sort.c
+ 1114  gcc if+simple_sort.c -o if+simple_sort.out
+ 1115  ./if+simple_sort.out
+ 1116  nano if+simple_sort.c
+ 1117  gcc if+simple_sort.c -o if+simple_sort.out
+ 1118  nano if+simple_sort.c
+ 1119  gcc if+simple_sort.c -o if+simple_sort.out
+ 1120  ./if+simple_sort.out
+ 1121  nano if+simple_sort.c
+ 1122  gcc if+simple_sort.c -o if+simple_sort.out
+ 1123  ./if+simple_sort.out
+ 1124  nano if+simple_sort.c
+ 1125  gcc if+simple_sort.c -o if+simple_sort.out
+ 1126  ./if+simple_sort.out
+ 1127  nano if+simple_sort.c
+ 1128  gcc if+simple_sort.c -o if+simple_sort.out
+ 1129  ./if+simple_sort.out
+ 1130  nano if+simple_sort.c
+ 1131  gcc if+simple_sort.c -o if+simple_sort.out
+ 1132  ./if+simple_sort.out
+ 1133  nano if+simple_sort.c
+ 1134  gcc if+simple_sort.c -o if+simple_sort.out
+ 1135  ./if+simple_sort.out
+ 1136  nano if+simple_sort.c
+ 1137  gcc if+simple_sort.c -o if+simple_sort.out
+ 1138  ./if+simple_sort.out
+ 1139  nano if+simple_sort.c
+ 1140  gcc if+simple_sort.c -o if+simple_sort.out
+ 1141  ./if+simple_sort.out
+ 1142  nano if+simple_sort.c
+ 1143  gcc if+simple_sort.c -o if+simple_sort.out
+ 1144  ./if+simple_sort.out
+ 1145  nano if+simple_sort.c
+ 1146  gcc if+simple_sort.c -o if+simple_sort.out
+ 1147  ./if+simple_sort.out
+ 1148  nano if+simple_sort.c
+ 1149  gcc if+simple_sort.c -o if+simple_sort.out
+ 1150  ./if+simple_sort.out
+ 1151  nano if+simple_sort.c
+ 1152  gcc if+simple_sort.c -o if+simple_sort.out
+ 1153  ./if+simple_sort.out
+ 1154  nano if+simple_sort.c
+ 1155  gcc if+simple_sort.c -o if+simple_sort.out
+ 1156  ./if+simple_sort.out
+ 1157  nano if+simple_sort.c
+ 1158  gcc if+simple_sort.c -o if+simple_sort.out
+ 1159  ./if+simple_sort.out
+ 1160  nano if+simple_sort.c
+ 1161  gcc if+simple_sort.c -o if+simple_sort.out
+ 1162  nano if+simple_sort.c
+ 1163  gcc if+simple_sort.c -o if+simple_sort.out
+ 1164  ./if+simple_sort.out
+ 1165  nano if+simple_sort.c
+ 1166  cd ..
+ 1167  ls]
+ 1168  cd //
+ 1169  cd /
+ 1170  cd
+ 1171  ls
+ 1172  cd RTR-105
+ 1173  cd Uzdevumi
+ 1174  ls'
+ 1175  ls
+ 1176  ls
+ 1177  cat base.c
+ 1178  cat reizinasana.c
+ 1179  cat dec2bin.c
+ 1180  cat dec2bin2.c
+ 1181  cd
+ 1182  ls
+ 1183  https://github.com/reiniskob/RTR-105
+ 1184  git clone https://github.com/reiniskob/RTR-105
+ 1185  ls
+ 1186  cd RTR-150
+ 1187  cd RTR-105
+ 1188  ls
+ 1189  cd Uzdevumi
+ 1190  ls
+ 1191  nano while_factorial.c 
+ 1192  gcc while_factorial.c -o while_factorial.put
+ 1193  gcc while_factorial.c -o while_factorial.out
+ 1194  ls
+ 1195  rm while_factorial.put
+ 1196  ls
+ 1197  ./while_factorial.out 
+ 1198  nano while_factorial.c 
+ 1199  gcc while_factorial.c -o while_factorial.out
+ 1200  ./while_factorial.out 
+ 1201  nano while_factorial.c 
+ 1202  gcc while_factorial.c -o while_factorial.out
+ 1203  nano while_factorial.c 
+ 1204  gcc while_factorial.c -o while_factorial.out
+ 1205  nano while_factorial.c 
+ 1206  gcc while_factorial.c -o while_factorial.out
+ 1207  nano while_factorial.c 
+ 1208  gcc while_factorial.c -o while_factorial.out
+ 1209  nano while_factorial.c 
+ 1210  gcc while_factorial.c -o while_factorial.out
+ 1211  ./while_factorial.out 
+ 1212  nano while_factorial.c 
+ 1213  fg
+ 1214  gcc while_factorial.c -o while_factorial.out
+ 1215  ./while_factorial.out 
+ 1216  nano while_factorial.c 
+ 1217  gcc while_factorial.c -o while_factorial.out
+ 1218  ./while_factorial.out 
+ 1219  nano while_factorial.c 
+ 1220  gcc while_factorial.c -o while_factorial.out
+ 1221  ./while_factorial.out \
+ 1222  ./while_factorial.out
+ 1223  nano while_factorial.c 
+ 1224  gcc while_factorial.c -o while_factorial.out
+ 1225  nano while_factorial.c 
+ 1226  gcc while_factorial.c -o while_factorial.out
+ 1227  nano while_factorial.c 
+ 1228  gcc while_factorial.c -o while_factorial.out
+ 1229  ./while_factorial.out
+ 1230  nano while_factorial.c 
+ 1231  gcc while_factorial.c -o while_factorial.out
+ 1232  ./while_factorial.out
+ 1233  nano while_factorial.c 
+ 1234  gcc while_factorial.c -o while_factorial.out
+ 1235  ./while_factorial.out
+ 1236  nano while_factorial.c 
+ 1237  gcc while_factorial.c -o while_factorial.out
+ 1238  ./while_factorial.out
+ 1239  nano while_factorial.c 
+ 1240  gcc while_factorial.c -o while_factorial.out
+ 1241  ./while_factorial.out
+ 1242  nano while_factorial.c 
+ 1243  gcc while_factorial.c -o while_factorial.out
+ 1244  ./while_factorial.out
+ 1245  nano while_factorial.c 
+ 1246  gcc while_factorial.c -o while_factorial.out
+ 1247  ./while_factorial.out
+ 1248  nano while_factorial.c 
+ 1249  gcc while_factorial.c -o while_factorial.out
+ 1250  ./while_factorial.out
+ 1251  nano while_factorial.c 
+ 1252  gcc while_factorial.c -o while_factorial.out
+ 1253  ./while_factorial.out
+ 1254  nano while_factorial.c 
+ 1255  gcc while_factorial.c -o while_factorial.out
+ 1256  ./while_factorial.out
+ 1257  nano while_factorial.c 
+ 1258  gcc while_factorial.c -o while_factorial.out
+ 1259  ./while_factorial.out
+ 1260  nano while_factorial.c 
+ 1261  gcc while_factorial.c -o while_factorial.out
+ 1262  ./while_factorial.out
+ 1263  nano while_factorial.c 
+ 1264  gcc while_factorial.c -o while_factorial.out
+ 1265  ./while_factorial.out
+ 1266  nano while_factorial.c 
+ 1267  gcc while_factorial.c -o while_factorial.out
+ 1268  nano while_factorial.c 
+ 1269  gcc while_factorial.c -o while_factorial.out
+ 1270  nano while_factorial.c 
+ 1271  ./while_factorial.out
+ 1272  nano while_factorial.c 
+ 1273  ./while_factorial.out
+ 1274  nano while_factorial.c 
+ 1275  gcc while_factorial.c -o while_factorial.out
+ 1276  ./while_factorial.out[B
+ 1277  4
+ 1278  ./while_factorial.out
+ 1279  nano while_factorial.c 
+ 1280  ./while_factorial.out
+ 1281  ./while_factorial.outasd
+ 1282  gcc while_factorial.c -o while_factorial.out
+ 1283  ./while_factorial.out
+ 1284  c
+ 1285  ./while_factorial.out
+ 1286  nano while_factorial.c 
+ 1287  gcc while_factorial.c -o while_factorial.out
+ 1288  ./while_factorial.out
+ 1289  nano while_factorial.c 
+ 1290  gcc while_factorial.c -o while_factorial.out
+ 1291  ./while_factorial.out
+ 1292  nano while_factorial.c 
+ 1293  gcc while_factorial.c -o while_factorial.out
+ 1294  ./while_factorial.out
+ 1295  gcc while_factorial.c -o while_factorial.out
+ 1296  nano while_factorial.c 
+ 1297  gcc while_factorial.c -o while_factorial.out
+ 1298  ./while_factorial.out
+ 1299  nano while_factorial.c 
+ 1300  ./while_factorial.out
+ 1301  nano while_factorial.c 
+ 1302  nano for_factorial.c
+ 1303  gcc for_factorial.c -o for_factorial.out
+ 1304  nano for_factorial.c
+ 1305  gcc for_factorial.c -o for_factorial.out
+ 1306  nano for_factorial.c
+ 1307  rm for_factorial.c 
+ 1308  nano for_factorial.c
+ 1309  gcc for_factorial.c -o for_factorial.out
+ 1310  ./for_factorial.out 
+ 1311  cd
+ 1312  ls
+ 1313  cd RTR-105
+ 1314  ls
+ 1315  cd history
+ 1316  ls
+ 1317  history > history251022.txt
