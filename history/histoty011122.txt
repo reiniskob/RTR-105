@@ -1,0 +1,85 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/reiniskob/RTR_105
+    4  git clone https://github.com/reiniskob/RTR-105
+    5  cd RTR-105
+    6  ls
+    7  mkdir Class_12
+    8  ls
+    9  cd Class_12
+   10  ls
+   11  cd ..
+   12  mv Class_12 Class_13
+   13  ls
+   14  cd Class_13
+   15  ls
+   16  nano user_function.c
+   17  gbd user_function.out
+   18  gdb user_function.out
+   19  nano user_function.c
+   20  fg
+   21  tg
+   22  nano user_function.c
+   23  gcc user_function.c -o user_function.out
+   24  nano user_function.c
+   25  gcc user_function.c -o user_function.out
+   26  nano user_function.c
+   27  gcc user_function.c -o user_function.out
+   28  nano user_function.c
+   29  gcc user_function.c -o user_function.out
+   30  ./user_function.out
+   31  echo
+   32  nano user_function.c
+   33  gcc user_function.c -o user_function.out
+   34  nano user_function.c
+   35  gcc user_function.c -o user_function.out
+   36  ./user_function.out
+   37  nano user_function.c
+   38  gcc user_function.c -o user_function.out
+   39  nano user_function.c
+   40  gcc user_function.c -o user_function.out
+   41  ./user_function.out
+   42  nano user_function.c
+   43  nano main_with_arguments.c
+   44  gcc main_with_arguments.c -o main_with_arguments.out
+   45  nano main_with_arguments.c
+   46  gcc main_with_arguments.c -o main_with_arguments.out
+   47  nano main_with_arguments.c
+   48  gcc main_with_arguments.c -o main_with_arguments.out
+   49  nano main_with_arguments.c
+   50  gcc main_with_arguments.c -o main_with_arguments.out
+   51  ./main_with_arguments.out 
+   52  ./main_with_arguments.out a b c d
+   53  nano main_with_arguments.c
+   54  gcc main_with_arguments.c -o main_with_arguments.ou
+   55  ./main_with_arguments.out a b c d
+   56  $?
+   57  ./main_with_arguments.out a b c d
+   58  ./main_with_arguments.out a b
+   59  $?
+   60  nano main_with_arguments.c
+   61  gcc main_with_arguments.c -o main_with_arguments.ou
+   62  nano main_with_arguments.c
+   63  gcc main_with_arguments.c -o main_with_arguments.ou
+   64  nano main_with_arguments.c
+   65  gcc main_with_arguments.c -o main_with_arguments.ou
+   66  nano main_with_arguments.c
+   67  gcc main_with_arguments.c -o main_with_arguments.ou
+   68  nano main_with_arguments.c
+   69  gcc main_with_arguments.c -o main_with_arguments.ou
+   70  ./main_with_arguments.out a b
+   71  ./main_with_arguments.out 3 6
+   72  nano main_with_arguments.c
+   73  ./main_with_arguments.out 3 6
+   74  ./main_with_arguments.out 21 31
+   75  nano main_with_arguments.c
+   76  gcc main_with_arguments.c -o main_with_arguments.ou
+   77  ./main_with_arguments.out 32 23
+   78  nano main_with_arguments.c
+   79  ./git-upload
+   80  cd ..
+   81  ls
+   82  ./git-upload
+   83  cd history
+   84  ls
+   85  history > histoty011122.txt
