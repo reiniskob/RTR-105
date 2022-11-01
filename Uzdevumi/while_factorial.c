@@ -1,4 +1,5 @@
 #include <stdio.h>
+// veicu testus ar skolas datoru un kods stradaja tikai char datu tipa kartosana, bet parbaudot kodu ar virtual box kods strada visi datu tipi
 int main()
 {
         int n, test;
@@ -16,10 +17,10 @@ int main()
                         {
                                 if(fact_previous == fact_next ) //parbauda ieprieksejo ar nakamo dalits ar x
                                 {
-                                        fact_previous = fact;
-                                        x = x + 1;
-                                        fact = fact * x;
-                                        fact_next = fact / x;
+                                        fact_previous = fact;	//skaitilis pirms reizinasanas
+                                        x = x + 1;		//x palaielinasna
+                                        fact = fact * x;	//skaitla reizinasana
+                                        fact_next = fact / x; 	//skaitlis pec reizinasanas
                                 }
                                 else
                                 {

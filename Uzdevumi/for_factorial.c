@@ -6,7 +6,7 @@ int main()
         printf("Enter a whole decimal number:");
         scanf(" %d",&n);    //pajauta faktoriala decimālo skaitli
         printf("Choose a data type: \nFor char enter \"c\" \nFor int enter \"i\" \nFor long long int enter \"l\"\nc,i,l:");
-        scanf(" %c",&t);    //pajauta faktoriala decimālo skaitli
+        scanf(" %c",&t);    //pajauta datu tipu
         if(t == 99)
         {
                 printf("Char %d!: ", n);
@@ -16,9 +16,9 @@ int main()
                         {
                                 if(fact_previous == fact_next ) //parbauda ieprieksejo ar nakamo dalits ar x
                                 {
-                                        fact_previous = fact;
-                                        fact = fact * x;
-                                        fact_next = fact / x;
+                                        fact_previous = fact;   //ieprieksejais skaitlis pirms reizinasanas
+                                        fact = fact * x;	//skaitla reizinasana
+                                        fact_next = fact / x;   //ieprieksejais skaitlis pec reizinasanas
                                 }
                                 else
                                 {
@@ -28,7 +28,7 @@ int main()
                         }
                 if(x != n+3)            //ja faktorials ir iespejams parada ieprieksejo iespejamo faktorialu
 		{
-                        printf("%d\n", fact_previous);
+                        printf("%d\n", fact_previous); //nezinamu iemeslu del x != n+3 vienmer ir paties
                 }
         }
         else
