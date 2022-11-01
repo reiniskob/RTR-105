@@ -9,7 +9,7 @@ int main()
         scanf(" %c",&t);    //pajauta faktoriala decimālo skaitli
         if(t == 99)
         {
-                printf("Char n!: ");
+                printf("Char %d!: ", n);
                 char fact = 1, fact_previous = 1, fact_next = 1;
                 int x;
                         for(x = 1 ; x-1 <= n ; x++)
@@ -35,7 +35,7 @@ int main()
         {
 		if(t == 105)
 		{
-		        printf("Int n!: ");
+		        printf("Int %d!: ", n);
 		        int fact = 1, fact_previous = 1, fact_next = 1;
 		        int x;
 		                for(x = 1 ; x-1 <= n ; x++)
@@ -61,7 +61,7 @@ int main()
 		{
 			if(t == 108)
 			{
-				printf("Long long int n!: ");
+				printf("Long long int %d!: ", n);
 				long long int fact = 1, fact_previous = 1, fact_next = 1;
 				int x;
 				        for(x = 1 ; x-1 <= n ; x++)

@@ -1,3 +1,6 @@
+		//iesniegšanas laikā kods nestrādāja, jo bija pēdējā iesniegšanas diena.
+		//bet izdevās salabot kodu nomainot c1 & 00001111 uz c1 & 0x0f
+		//tagad kods strādā lietojot bitu operācijas
 #include <stdio.h>
 int main ()
 {

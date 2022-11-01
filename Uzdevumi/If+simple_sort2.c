@@ -10,22 +10,22 @@ unsigned char x,y,z,c;
       printf("For alphabetica order enter \"a\" \nFor reverse alphabetical order enter \"r\"\n");
       scanf(" %c", &c); //pajauta secibu
       printf("%c %c %c", x,y,z);
-    
+
       if(c == 97) //parbauda vai ievditais burts ir a
       {
             printf("\nAlphabetical order :");
             if(x <= y)					//salīdzina, un parāda pareizajā secībā
-            {                 
+            {
                   if(x <= z)
                   {
                         printf("%c", x);
                         if(y <= z)
                         {
-                              printf("%c%c", y, z);
+                              printf("%c%c\n", y, z);
                         }
                         else
                         {
-                              printf("%c%c", z, y);
+                              printf("%c%c\n", z, y);
                         }
                   }
                   else
@@ -33,11 +33,11 @@ unsigned char x,y,z,c;
                         printf("%c",z);
                         if(y <= x)
                         {
-                              printf("%c%c", y, x);
+                              printf("%c%c\n", y, x);
                         }
                         else
                         {
-                              printf("%c%c", x, y);   
+                              printf("%c%c\n", x, y);   
                         }
                   }
             }
@@ -48,11 +48,11 @@ unsigned char x,y,z,c;
                         printf("%c", y);
                         if(x <= z)
                         {
-                              printf("%c%c", x, z);
+                              printf("%c%c\n", x, z);
                         }
                         else
                         {
-                              printf("%c%c", z, x);
+                              printf("%c%c\n", z, x);
                         }
                   }
                   else
@@ -60,11 +60,11 @@ unsigned char x,y,z,c;
                         printf("%c", z);
                         if(y <= x)
                         {
-                              printf("%c%c", y, x);
+                              printf("%c%c\n", y, x);
                         }
                         else
                         {
-                              printf("%c%c", x, y);     
+                              printf("%c%c\n", x, y);     
                         }
                   }
             }
@@ -81,11 +81,11 @@ unsigned char x,y,z,c;
                               printf("%c", x);
                               if(y >= z)
                               {
-                                    printf("%c%c", y, z);
+                                    printf("%c%c\n", y, z);
                               }
                               else
                               {
-                                    printf("%c%c", z, y);
+                                    printf("%c%c\n", z, y);
                               }
                         }
                         else
@@ -93,11 +93,11 @@ unsigned char x,y,z,c;
                               printf("%c",z);
                               if(y >= x)
                               {
-                                    printf("%c%c", y, x);
+                                    printf("%c%c\n", y, x);
                               }
                               else
                               {
-                                    printf("%c%c", x, y);   
+                                    printf("%c%c\n", x, y);   
                               }
                         }
                   }
@@ -108,11 +108,11 @@ unsigned char x,y,z,c;
                               printf("%c", y);
                               if(x >= z)
                               {
-                                    printf("%c%c", x, z);
+                                    printf("%c%c\n", x, z);
                               }
                               else
                               {
-                                    printf("%c%c", z, x);
+                                    printf("%c%c\n", z, x);
                               }
                         }
                         else
@@ -120,11 +120,11 @@ unsigned char x,y,z,c;
                               printf("%c", z);
                               if(y >= x)
                               {
-                                    printf("%c%c", y, x);
+                                    printf("%c%c\n", y, x);
                               }
                               else
                               {
-                                    printf("%c%c", x, y);     
+                                    printf("%c%c\n", x, y);     
                               }
                         }
                   }

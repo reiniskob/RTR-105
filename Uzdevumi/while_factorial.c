@@ -36,7 +36,7 @@ int main()
         {
                 if(t == 105)
        		{
-		        printf("Char %d!: ", n);
+		        printf("Int %d!: ", n);
 		        int fact = 1, fact_previous = 0, fact_next;
 		        int x = 0;
 		                while(x <= n)
@@ -50,7 +50,7 @@ int main()
 		                        }
 		                        else
 		                        {
-		                                x = n+2;                // partrauc loop ja fact_previous nav vienads ar fact_next
+		                      		x = n+2;                // partrauc loop ja fact_previous nav vienads ar fact_next
 		                                printf("can't dispaly choosen factorial\n");
 		                        }
 		                }
@@ -63,7 +63,7 @@ int main()
        	 	{
        	 		if(t == 108)
         		{
-				printf("Char %d!: ", n);
+				printf("Long long int %d!: ", n);
 				long long int fact = 1, fact_previous = 0, fact_next;
 				int x = 0;
 				        while(x <= n)
