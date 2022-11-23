@@ -1,0 +1,150 @@
+    1  git clone https://github.com/reiniskob/RTR-105
+    2  sudo apt install git
+    3  git clone https://github.com/reiniskob/RTR-105
+    4  cd RTR-105
+    5  ls
+    6  mkdir LD
+    7  cd LD
+    8  nano 1LD_series.c
+    9  gcc 1LD_series.c -0 1LD_series.out -mf
+   10  sudo apt install gcc
+   11  gcc 1LD_series.c -0 1LD_series.out -mf
+   12  gcc 1LD_series.c -o 1LD_series.out -mf
+   13  gcc 1LD_series.c -o 1LD_series.out -lm
+   14  ./1LD_series.out
+   15  nano 1LD_series.c
+   16  gcc 1LD_series.c -o 1LD_series.out -lm
+   17  nano 1LD_series.c
+   18  gcc 1LD_series.c -o 1LD_series.out -lm
+   19  nano 1LD_series.c
+   20  gcc 1LD_series.c -o 1LD_series.out -lm
+   21  nano 1LD_series.c
+   22  gcc 1LD_series.c -o 1LD_series.out -lm
+   23  nano 1LD_series.c
+   24  gcc 1LD_series.c -o 1LD_series.out -lm
+   25  nano 1LD_series.c
+   26  gcc 1LD_series.c -o 1LD_series.out -lm
+   27  nano 1LD_series.c
+   28  gcc 1LD_series.c -o 1LD_series.out -lm
+   29  nano 1LD_series.c
+   30  gcc 1LD_series.c -o 1LD_series.out -lm
+   31  nano 1LD_series.c
+   32  gcc 1LD_series.c -o 1LD_series.out -lm
+   33  nano 1LD_series.c
+   34  gcc 1LD_series.c -o 1LD_series.out -lm
+   35  ./1LD_series.out
+   36  gcc 1LD_series.c -o 1LD_series.out -lm
+   37  nano 1LD_series.c
+   38  gcc 1LD_series.c -o 1LD_series.out -lm
+   39  ./1LD_series.out
+   40  nano 1LD_series.c
+   41  gcc 1LD_series.c -o 1LD_series.out -lm
+   42  nano 1LD_series.c
+   43  gcc 1LD_series.c -o 1LD_series.out -lm
+   44  nano 1LD_series.c
+   45  gcc 1LD_series.c -o 1LD_series.out -lm
+   46  ./1LD_series.out
+   47  nano 1LD_series.c
+   48  gcc 1LD_series.c -o 1LD_series.out -lm
+   49  nano 1LD_series.c
+   50  gcc 1LD_series.c -o 1LD_series.out -lm
+   51  ./1LD_series.out
+   52  nano 1LD_series.c
+   53  gcc 1LD_series.c -o 1LD_series.out -lm
+   54  ./1LD_series.out
+   55  nano 1LD_series.c
+   56  gcc 1LD_series.c -o 1LD_series.out -lm
+   57  ./1LD_series.out
+   58  nano 1LD_series.c
+   59  gcc 1LD_series.c -o 1LD_series.out -lm
+   60  ./1LD_series.out
+   61  nano 1LD_series.c
+   62  gcc 1LD_series.c -o 1LD_series.out -lm
+   63  ./1LD_series.out
+   64  nano 1LD_series.c
+   65  gcc 1LD_series.c -o 1LD_series.out -lm
+   66  ./1LD_series.out
+   67  nano 1LD_series.c
+   68  gcc 1LD_series.c -o 1LD_series.out -lm
+   69  ./1LD_series.out
+   70  nano 1LD_series.c
+   71  gcc 1LD_series.c -o 1LD_series.out -lm
+   72  ./1LD_series.out
+   73  gcc 1LD_series.c -o 1LD_series.out -lm
+   74  nano 1LD_series.c
+   75  gcc 1LD_series.c -o 1LD_series.out -lm
+   76  ./1LD_series.out
+   77  nano 1LD_series.c
+   78  gcc 1LD_series.c -o 1LD_series.out -lm
+   79  ./1LD_series.out
+   80  nano 1LD_series.c
+   81  gcc 1LD_series.c -o 1LD_series.out -lm
+   82  ./1LD_series.out
+   83  nano 1LD_series.c
+   84  gcc 1LD_series.c -o 1LD_series.out -lm
+   85  a
+   86  ./1LD_series.out
+   87  nano 1LD_series.c
+   88  gcc 1LD_series.c -o 1LD_series.out -lm
+   89  nano 1LD_series.c
+   90  gcc 1LD_series.c -o 1LD_series.out -lm
+   91  ./1LD_series.out
+   92  6
+   93  nano 1LD_series.c
+   94  gcc 1LD_series.c -o 1LD_series.out -lm
+   95  nano 1LD_series.c
+   96  gcc 1LD_series.c -o 1LD_series.out -lm
+   97  ./1LD_series.out
+   98  nano 1LD_series.c
+   99  ./1LD_series.out
+  100  nano 1LD_series.c
+  101  gcc 1LD_series.c -o 1LD_series.out -lm
+  102  ./1LD_series.out
+  103  nano 1LD_series.c
+  104  gcc 1LD_series.c -o 1LD_series.out -lm
+  105  ./1LD_series.out
+  106  nano 1LD_series.c
+  107  gcc 1LD_series.c -o 1LD_series.out -lm
+  108  nano 1LD_series.c
+  109  gcc 1LD_series.c -o 1LD_series.out -lm
+  110  nano 1LD_series.c
+  111  gcc 1LD_series.c -o 1LD_series.out -lm
+  112  nano 1LD_series.c
+  113  gcc 1LD_series.c -o 1LD_series.out -lm
+  114  nano 1LD_series.c
+  115  gcc 1LD_series.c -o 1LD_series.out -lm
+  116  nano 1LD_series.c
+  117  gcc 1LD_series.c -o 1LD_series.out -lm
+  118  nano 1LD_series.c
+  119  gcc 1LD_series.c -o 1LD_series.out -lm
+  120  nano 1LD_series.c
+  121  gcc 1LD_series.c -o 1LD_series.out -lm
+  122  nano 1LD_series.c
+  123  gcc 1LD_series.c -o 1LD_series.out -lm
+  124  nano 1LD_series.c
+  125  gcc 1LD_series.c -o 1LD_series.out -lm
+  126  nano 1LD_series.c
+  127  gcc 1LD_series.c -o 1LD_series.out -lm
+  128  ./1LD_series.out
+  129  nano 1LD_series.c
+  130  gcc 1LD_series.c -o 1LD_series.out -lm
+  131  ./1LD_series.out
+  132  nano 1LD_series.c
+  133  gcc 1LD_series.c -o 1LD_series.out -lm
+  134  ./1LD_series.out
+  135  nano 1LD_series.c
+  136  gcc 1LD_series.c -o 1LD_series.out -lm
+  137  ./1LD_series.out
+  138  nano 1LD_series.c
+  139  cd ..
+  140  cd ...
+  141  cd ..
+  142  sudo apt update
+  143  sudo apt -y install gnuplot
+  144  cd RTR-105
+  145  cd LD
+  146  ls
+  147  nano 1LD_series.c
+  148  history >20221123.txt
+  149  ls
+  150  history > history_20221123.txt
