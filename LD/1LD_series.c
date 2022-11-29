@@ -5,30 +5,31 @@
 //gcc complile key -lm
 #include<stdio.h>
 #include<math.h>
-void my_sinh(long double, int, long double*, long double*, long double*);
+void my_sinh(double, int, double*, double*, double*);
 void main( )
 {
 
-        long double x, y, my, aE499, aE500;
+        double x, y, my, aE499, aE500;
 	int k=100;
 	printf("sinh(x/2) calculation");
 	printf("\nenter argument x:");
-	scanf(" %Lf", &x);
+	scanf(" %lf", &x);
 
         y = sinh(x/2);
 	//x pieder R
-	printf("\nstandarta funkcijay sinh(%.2Lf/2)=%.5Lf\n",x,y);
+	printf("\nstandarta funkcijay sinh(%.2f/2)=%.5f\n",x,y);
 
 	my_sinh(x, k, &my, &aE499, &aE500);
-	printf("mana funkcija my_sinh(%.2Lf/2)=%.5Lf\n",x ,my);
-	printf("a%d = 10^%.10Lf\n", k-1, aE499);
-	printf("a%d = 10^%.10Lf\n", k, aE500);
+	printf("mana funkcija  my_sinh(%.2f/2) = %.5f\n",x ,my);
+	printf("a%d = 10^%.5f\n", k-1, aE499);//double garums ir 1.7+/1E308 un teilora 500 kartas
+	printf("a%d = 10^%.5f\n", k, aE500);//skaitlis ir daudz mazaks par to tapec ievadot skaitli paradas "-inf"
+	//samazinot atkartosanas reizes uz apmeram 100 paradas, ka a100~10^-297
 
 	printf("							\n");
 	printf("		%d					\n", k);
 	printf("		___					\n");
 	printf("	       \\	x^(2k+1)			\n");
-	printf("sinh(%.2Lf/2) = >   ________________			\n", x);
+	printf("sinh(%.2f/2) = >   ________________			\n", x);
 	printf("	       /___					\n");
 	printf("	       k=0  2^(2k+1)*(2k+1)!			\n");
 	printf("							\n");
@@ -41,10 +42,10 @@ void main( )
 
 }
 
-void my_sinh(long double x, int i, long double* my, long double* aE499, long double* aE500)
+void my_sinh(double x, int i, double* my, double* aE499, double* aE500)
 {
-	long double a = 0.0, s = 0.0, a_1= 0.0;
-	long double n = 0.0, a499, a500;
+	double a = 0.0, s = 0.0, a_1= 0.0;
+	double n = 0.0, a499, a500;
         a = x/(2.0*1.0);//n=1  x^n/(2.0^n*n!)
         s = a ;
 
@@ -55,11 +56,10 @@ void my_sinh(long double x, int i, long double* my, long double* aE499, long dou
             s = s + a ;
         }
 	a_1 = a/((x*x)/((4.0*2.0*n)*(2.0*n+1.0)));
+	//*aE499 = a_1;
+	//*aE500 = a;
 	*aE499 = log10(a_1);
 	*aE500 = log10(a);
-	//a499 = (a_1)/(pow(10.0,-log(a_1)));
-	//a500 = a/(pow(10.0,-log(a)));
-	//printf("\n%.50Lf\n", a499);
-	//printf("%.50Lf\n", a500);
+
 	*my = s;
 }
