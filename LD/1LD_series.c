@@ -2,6 +2,7 @@
 //https://www.youtube.com/watch?v=3d6DsjIBzJ4&ab_channel=3Blue1Brown
 //https://planetmath.org/taylorseriesofhyperbolicfunctions
 //https://www.geeksforgeeks.org/how-to-return-multiple-values-from-a-function-in-c-or-cpp/
+//gcc complile key -lm
 #include<stdio.h>
 #include<math.h>
 void my_sinh(double, int, double*, double*);
@@ -9,7 +10,7 @@ void main( )
 {
 
         double x, y, my, my_1;
-	int k=5;
+	int k=10;
 	printf("sinh(x/2) calculation");
 	printf("\nenter argument x:");
 	scanf(" %lf", &x);
@@ -26,16 +27,16 @@ void main( )
 	printf("							\n");
 	printf("		%d					\n", k);
 	printf("		___					\n");
-	printf("	       \\	x^(2n+1)			\n");
+	printf("	       \\	x^(2k+1)			\n");
 	printf("sinh(%.2f/2) = 	>   ________________			\n", x);
 	printf("	       /___					\n");
-	printf("	       k=0  2^(2n+1)*(2n+1)!			\n");
+	printf("	       k=0  2^(2k+1)*(2k+1)!			\n");
 	printf("							\n");
 	printf("							\n");
 	printf("			    x^2				\n");
-	printf("rekurences reizinatajs = __________				\n");
+	printf("rekurences reizinatajs = __________			\n");
 	printf("							\n");
-	printf("			4(2n)(2n+1)				\n");
+	printf("			4(2n)(2n+1)			\n");
 	printf("							\n");
 
 }
