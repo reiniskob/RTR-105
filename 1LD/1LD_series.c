@@ -10,19 +10,19 @@ void main( )
 {
 
         double x, y, my, aE499, aE500;
-	int k=100;
+	int k=500;
 	printf("sinh(x/2) calculation");
 	printf("\nenter argument x:");
 	scanf(" %lf", &x);
 
         y = sinh(x/2);
 	//x pieder R
-	printf("\nstandarta funkcijay sinh(%.2f/2)=%.5f\n",x,y);
+	printf("\nstandarta funkcijay sinh(%f/2)=%f\n",x,y);
 
 	my_sinh(x, k, &my, &aE499, &aE500);
-	printf("mana funkcija  my_sinh(%.2f/2) = %.5f\n",x ,my);
-	printf("a%d = 10^%.5f\n", k-1, aE499);//double garums ir 1.7+/1E308 un teilora 500 kartas
-	printf("a%d = 10^%.5f\n", k, aE500);//skaitlis ir daudz mazaks par to tapec ievadot skaitli paradas "-inf"
+	printf("mana funkcija  my_sinh(%f/2) = %f\n",x ,my);
+	printf("a%d = 10^%f\n", k-1, aE499);//double garums ir 1.7+/1E308 un teilora 500 kartas
+	printf("a%d = 10^%f\n", k, aE500);//skaitlis ir daudz mazaks par to tapec ievadot skaitli paradas "-inf"
 	//samazinot atkartosanas reizes uz apmeram 100 paradas, ka a100~10^-297
 
 	printf("							\n");
