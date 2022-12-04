@@ -1,0 +1,1000 @@
+ 1167  ls]
+ 1168  cd //
+ 1169  cd /
+ 1170  cd
+ 1171  ls
+ 1172  cd RTR-105
+ 1173  cd Uzdevumi
+ 1174  ls'
+ 1175  ls
+ 1176  ls
+ 1177  cat base.c
+ 1178  cat reizinasana.c
+ 1179  cat dec2bin.c
+ 1180  cat dec2bin2.c
+ 1181  ls
+ 1182  nano for_factorial.c
+ 1183  ./for_factorial.out 
+ 1184  nano for_factorial.c
+ 1185  nano while_factorial.out
+ 1186  nano while_factorial.c
+ 1187  gcc while_factorial.c -o while_factorial.out
+ 1188  ./while_factorial.out 
+ 1189  nano while_factorial.c
+ 1190  gcc while_factorial.c -o while_factorial.out
+ 1191  nano while_factorial.c
+ 1192  gcc while_factorial.c -o while_factorial.out
+ 1193  ./while_factorial.out 
+ 1194  cd ..
+ 1195  ./git-upload
+ 1196  cd
+ 1197  ls
+ 1198  https://github.com/reiniskob/RTR-105
+ 1199  git clone https://github.com/reiniskob/RTR-105
+ 1200  ls
+ 1201  cd RTR-150
+ 1202  cd RTR-105
+ 1203  ls
+ 1204  cd Uzdevumi
+ 1205  ls
+ 1206  nano while_factorial.c 
+ 1207  gcc while_factorial.c -o while_factorial.put
+ 1208  gcc while_factorial.c -o while_factorial.out
+ 1209  ls
+ 1210  rm while_factorial.put
+ 1211  ls
+ 1212  ./while_factorial.out 
+ 1213  nano while_factorial.c 
+ 1214  gcc while_factorial.c -o while_factorial.out
+ 1215  ./while_factorial.out 
+ 1216  nano while_factorial.c 
+ 1217  gcc while_factorial.c -o while_factorial.out
+ 1218  nano while_factorial.c 
+ 1219  gcc while_factorial.c -o while_factorial.out
+ 1220  nano while_factorial.c 
+ 1221  gcc while_factorial.c -o while_factorial.out
+ 1222  nano while_factorial.c 
+ 1223  gcc while_factorial.c -o while_factorial.out
+ 1224  nano while_factorial.c 
+ 1225  gcc while_factorial.c -o while_factorial.out
+ 1226  ./while_factorial.out 
+ 1227  nano while_factorial.c 
+ 1228  fg
+ 1229  gcc while_factorial.c -o while_factorial.out
+ 1230  ./while_factorial.out 
+ 1231  nano while_factorial.c 
+ 1232  gcc while_factorial.c -o while_factorial.out
+ 1233  ./while_factorial.out 
+ 1234  nano while_factorial.c 
+ 1235  gcc while_factorial.c -o while_factorial.out
+ 1236  ./while_factorial.out \
+ 1237  ./while_factorial.out
+ 1238  nano while_factorial.c 
+ 1239  gcc while_factorial.c -o while_factorial.out
+ 1240  nano while_factorial.c 
+ 1241  gcc while_factorial.c -o while_factorial.out
+ 1242  nano while_factorial.c 
+ 1243  gcc while_factorial.c -o while_factorial.out
+ 1244  ./while_factorial.out
+ 1245  nano while_factorial.c 
+ 1246  gcc while_factorial.c -o while_factorial.out
+ 1247  ./while_factorial.out
+ 1248  nano while_factorial.c 
+ 1249  gcc while_factorial.c -o while_factorial.out
+ 1250  ./while_factorial.out
+ 1251  nano while_factorial.c 
+ 1252  gcc while_factorial.c -o while_factorial.out
+ 1253  ./while_factorial.out
+ 1254  nano while_factorial.c 
+ 1255  gcc while_factorial.c -o while_factorial.out
+ 1256  ./while_factorial.out
+ 1257  nano while_factorial.c 
+ 1258  gcc while_factorial.c -o while_factorial.out
+ 1259  ./while_factorial.out
+ 1260  nano while_factorial.c 
+ 1261  gcc while_factorial.c -o while_factorial.out
+ 1262  ./while_factorial.out
+ 1263  nano while_factorial.c 
+ 1264  gcc while_factorial.c -o while_factorial.out
+ 1265  ./while_factorial.out
+ 1266  nano while_factorial.c 
+ 1267  gcc while_factorial.c -o while_factorial.out
+ 1268  ./while_factorial.out
+ 1269  nano while_factorial.c 
+ 1270  gcc while_factorial.c -o while_factorial.out
+ 1271  ./while_factorial.out
+ 1272  nano while_factorial.c 
+ 1273  gcc while_factorial.c -o while_factorial.out
+ 1274  ./while_factorial.out
+ 1275  nano while_factorial.c 
+ 1276  gcc while_factorial.c -o while_factorial.out
+ 1277  ./while_factorial.out
+ 1278  nano while_factorial.c 
+ 1279  gcc while_factorial.c -o while_factorial.out
+ 1280  ./while_factorial.out
+ 1281  nano while_factorial.c 
+ 1282  gcc while_factorial.c -o while_factorial.out
+ 1283  nano while_factorial.c 
+ 1284  gcc while_factorial.c -o while_factorial.out
+ 1285  nano while_factorial.c 
+ 1286  ./while_factorial.out
+ 1287  nano while_factorial.c 
+ 1288  ./while_factorial.out
+ 1289  nano while_factorial.c 
+ 1290  gcc while_factorial.c -o while_factorial.out
+ 1291  ./while_factorial.out[B
+ 1292  4
+ 1293  ./while_factorial.out
+ 1294  nano while_factorial.c 
+ 1295  ./while_factorial.out
+ 1296  ./while_factorial.outasd
+ 1297  gcc while_factorial.c -o while_factorial.out
+ 1298  ./while_factorial.out
+ 1299  c
+ 1300  ./while_factorial.out
+ 1301  nano while_factorial.c 
+ 1302  gcc while_factorial.c -o while_factorial.out
+ 1303  ./while_factorial.out
+ 1304  nano while_factorial.c 
+ 1305  gcc while_factorial.c -o while_factorial.out
+ 1306  ./while_factorial.out
+ 1307  nano while_factorial.c 
+ 1308  gcc while_factorial.c -o while_factorial.out
+ 1309  ./while_factorial.out
+ 1310  gcc while_factorial.c -o while_factorial.out
+ 1311  nano while_factorial.c 
+ 1312  gcc while_factorial.c -o while_factorial.out
+ 1313  ./while_factorial.out
+ 1314  nano while_factorial.c 
+ 1315  ./while_factorial.out
+ 1316  nano while_factorial.c 
+ 1317  nano for_factorial.c
+ 1318  gcc for_factorial.c -o for_factorial.out
+ 1319  nano for_factorial.c
+ 1320  gcc for_factorial.c -o for_factorial.out
+ 1321  nano for_factorial.c
+ 1322  rm for_factorial.c 
+ 1323  nano for_factorial.c
+ 1324  gcc for_factorial.c -o for_factorial.out
+ 1325  ./for_factorial.out 
+ 1326  cd
+ 1327  ls
+ 1328  cd RTR-105
+ 1329  ls
+ 1330  cd history
+ 1331  ls
+ 1332  history > history251022.txt
+ 1333  ls
+ 1334  cd
+ 1335  cd RTR-105
+ 1336  ./git-upload
+ 1337  ls
+ 1338  rm first.c
+ 1339  ls
+ 1340  ./git-upload
+ 1341  ls
+ 1342  cd Uzdevumi
+ 1343  ls
+ 1344  nano dec2bin2.c
+ 1345  gcc dec2bin2.c -o dec2bin2.out
+ 1346  ./dec2bin2.out 
+ 1347  nano dec2bin2.c
+ 1348  gcc dec2bin2.c -o dec2bin2.out
+ 1349  ./dec2bin2.out 
+ 1350  nano dec2bin2.c
+ 1351  gcc dec2bin2.c -o dec2bin2.out
+ 1352  ./dec2bin2.out 
+ 1353  ./dec2bin2.out 8
+ 1354  nano dec2bin2.c
+ 1355  nano while_factorial.c 
+ 1356  gcc while_factorial.c -o while_factorial.out
+ 1357  nano while_factorial.c 
+ 1358  gcc while_factorial.c -o while_factorial.out
+ 1359  ./while_factorial.out 
+ 1360  nano while_factorial.c 
+ 1361  gcc while_factorial.c -o while_factorial.out
+ 1362  ./while_factorial.out 
+ 1363  nano while_factorial.c 
+ 1364  rm while_factorial.c
+ 1365  nano while_factorial.c 
+ 1366  gcc while_factorial.c -o while_factorial.out
+ 1367  nano while_factorial.c 
+ 1368  gcc while_factorial.c -o while_factorial.out
+ 1369  ./while_factorial.out 
+ 1370  nano for_factorial.c
+ 1371  gcc for_factorial.c -o for_factorial.out
+ 1372  ./for_factorial.out 
+ 1373  nano for_factorial.c
+ 1374  gcc for_factorial.c -o for_factorial.out
+ 1375  ./for_factorial.out 
+ 1376  nano for_factorial.c
+ 1377  gcc for_factorial.c -o for_factorial.out
+ 1378  ./for_factorial.out 
+ 1379  nano for_factorial.c
+ 1380  gcc for_factorial.c -o for_factorial.out
+ 1381  ./for_factorial.out 
+ 1382  nano for_factorial.c
+ 1383  gcc for_factorial.c -o for_factorial.out
+ 1384  ./for_factorial.out 
+ 1385  nano for_factorial.c
+ 1386  gcc for_factorial.c -o for_factorial.out
+ 1387  ./for_factorial.out 
+ 1388  nano for_factorial.c
+ 1389  gcc for_factorial.c -o for_factorial.out
+ 1390  ./for_factorial.out 
+ 1391  nano for_factorial.c
+ 1392  gcc for_factorial.c -o for_factorial.out
+ 1393  ./for_factorial.out 
+ 1394  nano for_factorial.c
+ 1395  gcc for_factorial.c -o for_factorial.out
+ 1396  ./for_factorial.out 
+ 1397  nano for_factorial.c
+ 1398  gcc for_factorial.c -o for_factorial.out
+ 1399  ./for_factorial.out 
+ 1400  nano for_factorial.c
+ 1401  gcc for_factorial.c -o for_factorial.out
+ 1402  ./for_factorial.out 
+ 1403  nano for_factorial.c
+ 1404  gcc for_factorial.c -o for_factorial.out
+ 1405  ./for_factorial.out 
+ 1406  nano for_factorial.c
+ 1407  gcc for_factorial.c -o for_factorial.out
+ 1408  ./for_factorial.out 
+ 1409  nano for_factorial.c
+ 1410  gcc for_factorial.c -o for_factorial.out
+ 1411  ./for_factorial.out 
+ 1412  7
+ 1413  c
+ 1414  ./for_factorial.out 
+ 1415  nano for_factorial.c
+ 1416  gcc for_factorial.c -o for_factorial.out
+ 1417  ./for_factorial.out 
+ 1418  nano for_factorial.c
+ 1419  gcc for_factorial.c -o for_factorial.out
+ 1420  ./for_factorial.out 
+ 1421  nano for_factorial.c
+ 1422  gcc for_factorial.c -o for_factorial.out
+ 1423  ./for_factorial.out 
+ 1424  nano for_factorial.c
+ 1425  ./for_factorial.out 
+ 1426  nano for_factorial.c
+ 1427  gcc for_factorial.c -o for_factorial.out
+ 1428  ./for_factorial.out 
+ 1429  nano for_factorial.c
+ 1430  gcc for_factorial.c -o for_factorial.out
+ 1431  ./for_factorial.out 
+ 1432  nano for_factorial.c
+ 1433  gcc for_factorial.c -o for_factorial.out
+ 1434  ./for_factorial.out 
+ 1435  nano for_factorial.c
+ 1436  gcc for_factorial.c -o for_factorial.out
+ 1437  ./for_factorial.out 
+ 1438  nano for_factorial.c
+ 1439  gcc for_factorial.c -o for_factorial.out
+ 1440  ./for_factorial.out 
+ 1441  nano for_factorial.c
+ 1442  gcc for_factorial.c -o for_factorial.out
+ 1443  ./for_factorial.out 
+ 1444  nano for_factorial.c
+ 1445  gcc for_factorial.c -o for_factorial.out
+ 1446  ./for_factorial.out 
+ 1447  nano for_factorial.c
+ 1448  gcc for_factorial.c -o for_factorial.out
+ 1449  ./for_factorial.out 
+ 1450  nano for_factorial.c
+ 1451  gcc for_factorial.c -o for_factorial.out
+ 1452  ./for_factorial.out 
+ 1453  nano for_factorial.c
+ 1454  gcc for_factorial.c -o for_factorial.out
+ 1455  ./for_factorial.out 
+ 1456  nano for_factorial.c
+ 1457  gcc for_factorial.c -o for_factorial.out
+ 1458  ./for_factorial.out 
+ 1459  nano for_factorial.c
+ 1460  gcc for_factorial.c -o for_factorial.out
+ 1461  ./for_factorial.out 
+ 1462  nano for_factorial.c
+ 1463  gcc for_factorial.c -o for_factorial.out
+ 1464  ./for_factorial.out 
+ 1465  nano for_factorial.c
+ 1466  gcc for_factorial.c -o for_factorial.out
+ 1467  ./for_factorial.out 
+ 1468  nano for_factorial.c
+ 1469  gcc for_factorial.c -o for_factorial.out
+ 1470  ./for_factorial.out 
+ 1471  nano for_factorial.c
+ 1472  gcc for_factorial.c -o for_factorial.out
+ 1473  ./for_factorial.out 
+ 1474  nano for_factorial.c
+ 1475  gcc for_factorial.c -o for_factorial.out
+ 1476  ./for_factorial.out 
+ 1477  nano for_factorial.c
+ 1478  gcc for_factorial.c -o for_factorial.out
+ 1479  ./for_factorial.out 
+ 1480  nano for_factorial.c
+ 1481  gcc for_factorial.c -o for_factorial.out
+ 1482  ./for_factorial.out 
+ 1483  nano for_factorial.c
+ 1484  nano for_factorial.c
+ 1485  gcc for_factorial.c -o for_factorial.out
+ 1486  ./for_factorial.out 
+ 1487  nano for_factorial.c
+ 1488  gcc for_factorial.c -o for_factorial.out
+ 1489  nano for_factorial.c
+ 1490  ./for_factorial.out 
+ 1491  nano for_factorial.c
+ 1492  gcc for_factorial.c -o for_factorial.out
+ 1493  ./for_factorial.out 
+ 1494  nano for_factorial.c
+ 1495  gcc for_factorial.c -o for_factorial.out
+ 1496  ./for_factorial.out 
+ 1497  nano for_factorial.c
+ 1498  gcc for_factorial.c -o for_factorial.out
+ 1499  ./for_factorial.out 
+ 1500  nano for_factorial.c
+ 1501  gcc for_factorial.c -o for_factorial.out
+ 1502  ./for_factorial.out 
+ 1503  nano for_factorial.c
+ 1504  gcc for_factorial.c -o for_factorial.out
+ 1505  ./for_factorial.out 
+ 1506  nano for_factorial.c
+ 1507  gcc for_factorial.c -o for_factorial.out
+ 1508  ./for_factorial.out 
+ 1509  nano for_factorial.c
+ 1510  gcc for_factorial.c -o for_factorial.out
+ 1511  ./for_factorial.out 
+ 1512  nano for_factorial.c
+ 1513  gcc for_factorial.c -o for_factorial.out
+ 1514  ./for_factorial.out 
+ 1515  nano for_factorial.c
+ 1516  rm for_factorial.c
+ 1517  nano for_factorial.c
+ 1518  gcc for_factorial.c -o for_factorial.out
+ 1519  nano for_factorial.c
+ 1520  gcc for_factorial.c -o for_factorial.out
+ 1521  ./for_factorial.out 
+ 1522  nano for_factorial.c
+ 1523  ./for_factorial.out 
+ 1524  nano for_factorial.c
+ 1525  gcc for_factorial.c -o for_factorial.out
+ 1526  ./for_factorial.out 
+ 1527  nano for_factorial.c
+ 1528  gcc for_factorial.c -o for_factorial.out
+ 1529  ./for_factorial.out 
+ 1530  nano for_factorial.c
+ 1531  ./for_factorial.out 
+ 1532  gcc for_factorial.c -o for_factorial.out
+ 1533  ./for_factorial.out 
+ 1534  cd ..
+ 1535  ./git-upload
+ 1536  ls
+ 1537  git clone https://github.com/reiniskob/RTR-105
+ 1538  ls
+ 1539  cd RTR-105
+ 1540  ls]
+ 1541  ls
+ 1542  cd Uzdevumi
+ 1543  ls
+ 1544  gcc while_factorial.c -o while_factorial.out
+ 1545  ./while_factorial.out 
+ 1546  nano while_factorial.c
+ 1547  gcc while_factorial.c -o while_factorial.out
+ 1548  ./while_factorial.out 
+ 1549  nano while_factorial.c
+ 1550  gcc while_factorial.c -o while_factorial.out
+ 1551  ./while_factorial.out 
+ 1552  nano while_factorial.c
+ 1553  nano for_factorial.c
+ 1554  gcc for_factorial.c -o for_factorial.out
+ 1555  ./for_factorial.out 
+ 1556  nano for_factorial.c
+ 1557  gcc for_factorial.c -o for_factorial.out
+ 1558  ./for_factorial.out 
+ 1559  ls
+ 1560  gcc reizinasana.c -o reizinasana.out
+ 1561  ./reizinasana.out 3
+ 1562  cd ..
+ 1563  ./git-upload
+ 1564  git clone https://github.com/reiniskob/RTR-105
+ 1565  ls
+ 1566  cd RTR-105
+ 1567  ls
+ 1568  nano pastmarkas.c
+ 1569  gcc pastmarkas.c -o pastmarkas.out
+ 1570  nano pastmarkas.c
+ 1571  gcc pastmarkas.c -o pastmarkas.out
+ 1572  ./pastmarkas.out 
+ 1573  nano pastmarkas.c
+ 1574  gcc pastmarkas.c -o pastmarkas.out
+ 1575  ./pastmarkas.out 
+ 1576  nano pastmarkas.c
+ 1577  gcc pastmarkas.c -o pastmarkas.out
+ 1578  nano pastmarkas.c
+ 1579  gcc pastmarkas.c -o pastmarkas.out
+ 1580  ./pastmarkas.out 
+ 1581  nano pastmarkas.c
+ 1582  gcc pastmarkas.c -o pastmarkas.out
+ 1583  nano pastmarkas.c
+ 1584  gcc pastmarkas.c -o pastmarkas.out
+ 1585  ./pastmarkas.out 
+ 1586  nano pastmarkas.c
+ 1587  gcc pastmarkas.c -o pastmarkas.out
+ 1588  ./pastmarkas.out 
+ 1589  nano pastmarkas.c
+ 1590  gcc pastmarkas.c -o pastmarkas.out
+ 1591  ./pastmarkas.out 
+ 1592  nano pastmarkas.c
+ 1593  gcc pastmarkas.c -o pastmarkas.out
+ 1594  nano pastmarkas.c
+ 1595  gcc pastmarkas.c -o pastmarkas.out
+ 1596  nano pastmarkas.c
+ 1597  gcc pastmarkas.c -o pastmarkas.out
+ 1598  nano pastmarkas.c
+ 1599  gcc pastmarkas.c -o pastmarkas.out
+ 1600  nano pastmarkas.c
+ 1601  ./pastmarkas.out 
+ 1602  nano pastmarkas.c
+ 1603  gcc pastmarkas.c -o pastmarkas.out
+ 1604  ./pastmarkas.out 
+ 1605  nano pastmarkas.c
+ 1606  gcc pastmarkas.c -o pastmarkas.out
+ 1607  ./pastmarkas.out 
+ 1608  nano pastmarkas.c
+ 1609  gcc pastmarkas.c -o pastmarkas.out
+ 1610  ./pastmarkas.out 
+ 1611  nano pastmarkas.c
+ 1612  gcc pastmarkas.c -o pastmarkas.out
+ 1613  ./pastmarkas.out 
+ 1614  nano pastmarkas.c
+ 1615  gcc pastmarkas.c -o pastmarkas.out
+ 1616  ./git-upload
+ 1617  ls
+ 1618  cd Uzdevumi
+ 1619  ls
+ 1620  cat If+simple_sort2.c 
+ 1621  cat base.c
+ 1622  ls
+ 1623  git clone https://github.com/reiniskob/RTR-105
+ 1624  ls
+ 1625  cd RTR-105
+ 1626  ls
+ 1627  cd Uzdevumi
+ 1628  ls
+ 1629  mkdir function
+ 1630  ls
+ 1631  cd function
+ 1632  ls
+ 1633  nano user_defined_function.c
+ 1634  ls
+ 1635  nano user_defined_function.c
+ 1636  gcc user_defined_function.c  -o user_defined_function.out
+ 1637  nano user_defined_function.c
+ 1638  gcc user_defined_function.c  -o user_defined_function.out
+ 1639  nano user_defined_function.c
+ 1640  gcc user_defined_function.c  -o user_defined_function.out
+ 1641  nano user_defined_function.c
+ 1642  gcc user_defined_function.c  -o user_defined_function.out
+ 1643  nano user_defined_function.c
+ 1644  gcc user_defined_function.c  -o user_defined_function.out
+ 1645  nano user_defined_function.c
+ 1646  gcc user_defined_function.c  -o user_defined_function.out
+ 1647  nano user_defined_function.c
+ 1648  gcc user_defined_function.c  -o user_defined_function.out
+ 1649  nano user_defined_function.c
+ 1650  gcc user_defined_function.c  -o user_defined_function.out
+ 1651  nano user_defined_function.c
+ 1652  gcc user_defined_function.c  -o user_defined_function.out
+ 1653  nano user_defined_function.c
+ 1654  gcc user_defined_function.c  -o user_defined_function.out
+ 1655  nano user_defined_function.c
+ 1656  gcc user_defined_function.c  -o user_defined_function.out
+ 1657  nano user_defined_function.c
+ 1658  gcc user_defined_function.c  -o user_defined_function.out
+ 1659  nano user_defined_function.c
+ 1660  gcc user_defined_function.c  -o user_defined_function.out
+ 1661  ./user_defined_function.out 
+ 1662  nano user_defined_function.c
+ 1663  gcc user_defined_function.c  -o user_defined_function.out
+ 1664  ./user_defined_function.out 
+ 1665  nano user_defined_function.c
+ 1666  gcc user_defined_function.c  -o user_defined_function.out
+ 1667  ./user_defined_function.out 
+ 1668  nano user_defined_function.c
+ 1669  gcc user_defined_function.c  -o user_defined_function.out
+ 1670  nano user_defined_function.c
+ 1671  gcc user_defined_function.c  -o user_defined_function.out
+ 1672  nano user_defined_function.c
+ 1673  gcc user_defined_function.c  -o user_defined_function.out
+ 1674  nano user_defined_function.c
+ 1675  ./user_defined_function.out 
+ 1676  nano user_defined_function.c
+ 1677  cd ..
+ 1678  ./git-upload 
+ 1679  cd ..
+ 1680  cd..
+ 1681  cat base.c
+ 1682  ls
+ 1683  git clone https://github.com/reiniskob/RTR-105
+ 1684  ls
+ 1685  cd RTR-105
+ 1686  ;s
+ 1687  ls
+ 1688  cd LD
+ 1689  ls
+ 1690  nano 1LD_series.c 
+ 1691  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1692  nano 1LD_series.c 
+ 1693  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1694  nano 1LD_series.c 
+ 1695  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1696  ./1LD_series.out 
+ 1697  nano 1LD_series.c 
+ 1698  ./1LD_series.out 
+ 1699  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1700  ./1LD_series.out 
+ 1701  nano 1LD_series.c 
+ 1702  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1703  ./1LD_series.out 
+ 1704  nano 1LD_series.c 
+ 1705  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1706  nano 1LD_series.c 
+ 1707  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1708  nano 1LD_series.c 
+ 1709  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1710  nano 1LD_series.c 
+ 1711  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1712  ./1LD_series.out 
+ 1713  nano 1LD_series.c 
+ 1714  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1715  ./1LD_series.out 
+ 1716  nano 1LD_series.c 
+ 1717  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1718  ./1LD_series.out 
+ 1719  nano 1LD_series.c 
+ 1720  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1721  nano 1LD_series.c 
+ 1722  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1723  ./1LD_series.out 
+ 1724  nano 1LD_series.c 
+ 1725  gcc 1LD_series.c -o 1LD_series.out -lm
+ 1726  nano 1LD_series.c 
+ 1727  ./1LD_series.out 
+ 1728  cd ..
+ 1729  ./git-upload 
+ 1730  git clone https://github.com/reiniskob/RTR-105
+ 1731  ls
+ 1732  cd RTR-105
+ 1733  ls
+ 1734  cd
+ 1735  ls
+ 1736  cd RTR-105
+ 1737  cd LD
+ 1738  ls
+ 1739  gnuplot
+ 1740  sudo apt instal gnuplot
+ 1741  sudo apt install gnuplot
+ 1742  ls
+ 1743  gnuplot -p sinh.gp
+ 1744  gcc 1LD_series.c -o 1LD_series.out -lm 
+ 1745  ./1LD_series.out 
+ 1746  nano 1LD_series.c
+ 1747  gcc 1LD_series.c -o 1LD_series.out -lm 
+ 1748  ./1LD_series.out 
+ 1749  nano 1LD_series.c
+ 1750  gcc 1LD_series.c -o 1LD_series.out -lm 
+ 1751  ./1LD_series.out 
+ 1752  nano 1LD_series.c
+ 1753  gcc 1LD_series.c -o 1LD_series.out -lm 
+ 1754  ./1LD_series.out 
+ 1755  nano 1LD_series.c
+ 1756  gnuplot -p sinh.gp
+ 1757  ./1LD_series.out 
+ 1758  cd ..
+ 1759  ls
+ 1760  ./git-upload 
+ 1761  cd 1LD
+ 1762  lsa
+ 1763  ls
+ 1764  git clone https://github.com/reiniskob/RTR-105
+ 1765  cd RTR-105
+ 1766  ls
+ 1767  mkdir 2LD
+ 1768  ls
+ 1769  cd 2LD
+ 1770  ls
+ 1771  nano bisection_method.c
+ 1772  gcc bisection_method.c -o bisection_method.out -lm
+ 1773  nano bisection_method.c
+ 1774  gcc bisection_method.c -o bisection_method.out -lm
+ 1775  nano bisection_method.c
+ 1776  gcc bisection_method.c -o bisection_method.out -lm
+ 1777  nano bisection_method.c
+ 1778  gcc bisection_method.c -o bisection_method.out -lm
+ 1779  nano bisection_method.c
+ 1780  gcc bisection_method.c -o bisection_method.out -lm
+ 1781  nano bisection_method.c
+ 1782  gcc bisection_method.c -o bisection_method.out -lm
+ 1783  nano bisection_method.c
+ 1784  gcc bisection_method.c -o bisection_method.out -lm
+ 1785  nano bisection_method.c
+ 1786  gcc bisection_method.c -o bisection_method.out -lm
+ 1787  nano bisection_method.c
+ 1788  gcc bisection_method.c -o bisection_method.out -lm
+ 1789  ./bisection_method.out 
+ 1790  nano bisection_method.c
+ 1791  gcc bisection_method.c -o bisection_method.out -lm
+ 1792  ./bisection_method.out 
+ 1793  nano bisection_method.c
+ 1794  cd
+ 1795  ls
+ 1796  cd RTR-105
+ 1797  ;s
+ 1798  ls
+ 1799  cd Uzdevumi
+ 1800  ls
+ 1801  cat base.c
+ 1802  ls
+ 1803  git clone https://github.com/reiniskob/RTR-105
+ 1804  ls
+ 1805  cd RTR-105
+ 1806  cd 2LD
+ 1807  ls
+ 1808  cd RTR-105
+ 1809  ls
+ 1810  cd 2LD
+ 1811  ls
+ 1812  ./bisection_method.out 
+ 1813  nano bisection_method.c
+ 1814  ./bisection_method.out 
+ 1815  gcc bisection_method.c -o bisection_method.out -lm
+ 1816  ./bisection_method.out 
+ 1817  nano dihotomija.c
+ 1818  gcc bisection_method.c -o bisection_method.out -lm
+ 1819  ./bisection_method.out 
+ 1820  nano dihotomija.c
+ 1821  gcc bisection_method.c -o bisection_method.out -lm
+ 1822  ./bisection_method.out 
+ 1823  nano bisection_method.c
+ 1824  gcc bisection_method.c -o bisection_method.out -lm
+ 1825  ./bisection_method.out 
+ 1826  nano bisection_method.c
+ 1827  gcc bisection_method.c -o bisection_method.out -lm
+ 1828  ./bisection_method.out 
+ 1829  nano bisection_method.c
+ 1830  gcc bisection_method.c -o bisection_method.out -lm
+ 1831  ./bisection_method.out 
+ 1832  nano bisection_method.c
+ 1833  gcc bisection_method.c -o bisection_method.out -lm
+ 1834  ./bisection_method.out 
+ 1835  nano bisection_method.c
+ 1836  gcc bisection_method.c -o bisection_method.out -lm
+ 1837  ./bisection_method.out 
+ 1838  nano bisection_method.c
+ 1839  gcc bisection_method.c -o bisection_method.out -lm
+ 1840  ./bisection_method.out 
+ 1841  nano bisection_method.c
+ 1842  gcc bisection_method.c -o bisection_method.out -lm
+ 1843  nano bisection_method.c
+ 1844  gcc bisection_method.c -o bisection_method.out -lm
+ 1845  nano bisection_method.c
+ 1846  gcc bisection_method.c -o bisection_method.out -lm
+ 1847  ./bisection_method.out 
+ 1848  nano bisection_method.c
+ 1849  gcc bisection_method.c -o bisection_method.out -lm
+ 1850  ./bisection_method.out 
+ 1851  nano bisection_method.c
+ 1852  gcc bisection_method.c -o bisection_method.out -lm
+ 1853* ./bisection_method.out
+ 1854  nano bisection_method.c
+ 1855  nano bisection_method.c
+ 1856  ls
+ 1857  ;ls
+ 1858  ls
+ 1859  nano dihotomija.c 
+ 1860  gcc dihotomija.c -o dihotomija.out -lm
+ 1861  nano dihotomija.c 
+ 1862  gcc dihotomija.c -o dihotomija.out -lm
+ 1863  ./dihotomija.out 
+ 1864  nano dihotomija.c 
+ 1865  gcc dihotomija.c -o dihotomija.out -lm
+ 1866  ./dihotomija.out 
+ 1867  nano dihotomija.c 
+ 1868  gcc dihotomija.c -o dihotomija.out -lm
+ 1869  ./dihotomija.out 
+ 1870  nano dihotomija.c 
+ 1871  gcc dihotomija.c -o dihotomija.out -lm
+ 1872  nano dihotomija.c 
+ 1873  gcc dihotomija.c -o dihotomija.out -lm
+ 1874  ./dihotomija.out 
+ 1875  nano dihotomija.c 
+ 1876  gcc dihotomija.c -o dihotomija.out -lm
+ 1877  ./dihotomija.out 
+ 1878  nano dihotomija.c 
+ 1879  gcc dihotomija.c -o dihotomija.out -lm
+ 1880  ./dihotomija.out 
+ 1881  nano dihotomija.c 
+ 1882  gcc dihotomija.c -o dihotomija.out -lm
+ 1883  ./dihotomija.out 
+ 1884  nano dihotomija.c 
+ 1885  gcc dihotomija.c -o dihotomija.out -lm
+ 1886  nano dihotomija.c 
+ 1887  gcc dihotomija.c -o dihotomija.out -lm
+ 1888  ./dihotomija.out 
+ 1889  nano dihotomija.c 
+ 1890  ./dihotomija.out 
+ 1891  gcc dihotomija.c -o dihotomija.out -lm
+ 1892  nano dihotomija.c 
+ 1893  gcc dihotomija.c -o dihotomija.out -lm
+ 1894  nano dihotomija.c 
+ 1895  gcc dihotomija.c -o dihotomija.out -lm
+ 1896  nano dihotomija.c 
+ 1897  gcc dihotomija.c -o dihotomija.out -lm
+ 1898  nano dihotomija.c 
+ 1899  gcc dihotomija.c -o dihotomija.out -lm
+ 1900  nano dihotomija.c 
+ 1901  gcc dihotomija.c -o dihotomija.out -lm
+ 1902  nano dihotomija.c 
+ 1903  gcc dihotomija.c -o dihotomija.out -lm
+ 1904  ./dihotomija.out 
+ 1905  nano dihotomija.c 
+ 1906  gcc dihotomija.c -o dihotomija.out -lm
+ 1907  ./dihotomija.out 
+ 1908  nano dihotomija.c 
+ 1909  gcc dihotomija.c -o dihotomija.out -lm
+ 1910  ./dihotomija.out 
+ 1911  nano dihotomija.c 
+ 1912  gcc dihotomija.c -o dihotomija.out -lm
+ 1913  ./dihotomija.out 
+ 1914  nano dihotomija.c 
+ 1915  ./dihotomija.out 
+ 1916  gcc dihotomija.c -o dihotomija.out -lm
+ 1917  ./dihotomija.out 
+ 1918  gcc dihotomija.c -o dihotomija.out -lm
+ 1919  ./dihotomija.out 
+ 1920  nano dihotomija.c 
+ 1921  ./dihotomija.out 
+ 1922  nano dihotomija.c 
+ 1923  gcc dihotomija.c -o dihotomija.out -lm
+ 1924  nano dihotomija.c 
+ 1925  gcc dihotomija.c -o dihotomija.out -lm
+ 1926  ./dihotomija.out 
+ 1927  nano dihotomija.c 
+ 1928  gcc dihotomija.c -o dihotomija.out -lm
+ 1929  nano dihotomija.c 
+ 1930  gcc dihotomija.c -o dihotomija.out -lm
+ 1931  ./dihotomija.out 
+ 1932  nano dihotomija.c 
+ 1933  gcc dihotomija.c -o dihotomija.out -lm
+ 1934  ./dihotomija.out 
+ 1935  nano dihotomija.c 
+ 1936  gcc dihotomija.c -o dihotomija.out -lm
+ 1937  ./dihotomija.out 
+ 1938  nano dihotomija.c 
+ 1939  nano dihotomija_sin.c 
+ 1940  ./dihotomija_sin.out 
+ 1941  gcc dihotomija_sin.c -o dihotomija_sin.out -lm
+ 1942  l;s
+ 1943  nano dihotomija
+ 1944  ls
+ 1945  nano dihotomija.c
+ 1946  nano dihotomija_sinh.c
+ 1947  gcc dihotomijah_sin.c -o dihotomija_sinh.out -lm
+ 1948  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1949  ./dihotomija_sinh.out 
+ 1950  nano dihotomija_sinh.c
+ 1951  ./dihotomija_sinh.out 
+ 1952  nano dihotomija_sinh.c
+ 1953  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1954  ./dihotomija_sinh.out 
+ 1955  nano dihotomija_sinh.c
+ 1956  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1957  ./dihotomija_sinh.out 
+ 1958  nano dihotomija_sinh.c
+ 1959  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1960  nano dihotomija_sinh.c
+ 1961  ./dihotomija_sinh.out 
+ 1962  nano dihotomija_sinh.c
+ 1963  ./dihotomija_sinh.out 
+ 1964  nano dihotomija_sinh.c
+ 1965  ./dihotomija_sinh.out 
+ 1966  nano dihotomija_sinh.c
+ 1967  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1968  nano dihotomija_sinh.c
+ 1969  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1970  nano dihotomija_sinh.c
+ 1971  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1972  ./dihotomija_sinh.out 
+ 1973  nano dihotomija_sinh.c
+ 1974  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1975  nano dihotomija_sinh.c
+ 1976  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1977  nano dihotomija_sinh.c
+ 1978  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1979  nano dihotomija_sinh.c
+ 1980  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1981  nano dihotomija_sinh.c
+ 1982  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1983  ./dihotomija_sinh.out 
+ 1984  nano dihotomija_sinh.c
+ 1985  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1986  ./dihotomija_sinh.out 
+ 1987  nano dihotomija_sinh.c
+ 1988  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1989  ./dihotomija_sinh.out 
+ 1990  nano dihotomija_sinh.c
+ 1991  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1992  ./dihotomija_sinh.out 
+ 1993  nano dihotomija_sinh.c
+ 1994  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1995  ./dihotomija_sinh.out 
+ 1996  nano dihotomija_sinh.c
+ 1997  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 1998  nano dihotomija_sinh.c
+ 1999  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2000  ./dihotomija_sinh.out 
+ 2001  nano dihotomija_sinh.c
+ 2002  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2003  ./dihotomija_sinh.out 
+ 2004  nano dihotomija_sinh.c
+ 2005  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2006  ./dihotomija_sinh.out 
+ 2007  nano dihotomija_sinh.c
+ 2008  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2009  ./dihotomija_sinh.out 
+ 2010  nano dihotomija_sinh.c
+ 2011  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2012  ./dihotomija_sinh.out 
+ 2013  nano dihotomija_sinh.c
+ 2014  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2015  nano dihotomija_sinh.c
+ 2016  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2017  nano dihotomija_sinh.c
+ 2018  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2019  nano dihotomija_sinh.c
+ 2020  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2021  ./dihotomija_sinh.out 
+ 2022  nano dihotomija_sinh.c
+ 2023  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2024  ./dihotomija_sinh.out 
+ 2025  nano dihotomija_sinh.c
+ 2026  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2027  ./dihotomija_sinh.out 
+ 2028  nano dihotomija_sinh.c
+ 2029  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2030  ./dihotomija_sinh.out 
+ 2031  nano dihotomija_sinh.c
+ 2032  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2033  ./dihotomija_sinh.out 
+ 2034  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2035  nano dihotomija_sinh.c
+ 2036  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2037  nano dihotomija_sinh.c
+ 2038  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2039  ./dihotomija_sinh.out 
+ 2040  nano dihotomija_sinh.c
+ 2041  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2042  ./dihotomija_sinh.out 
+ 2043  nano dihotomija_sinh.c
+ 2044  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2045  ./dihotomija_sinh.out 
+ 2046  nano dihotomija_sinh.c
+ 2047  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2048  ./dihotomija_sinh.out 
+ 2049  nano dihotomija_sinh.c
+ 2050  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2051  ./dihotomija_sinh.out 
+ 2052  nano dihotomija_sinh.c
+ 2053  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2054  ./dihotomija_sinh.out 
+ 2055  nano dihotomija_sinh.c
+ 2056  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2057  ./dihotomija_sinh.out 
+ 2058  nano dihotomija_sinh.c
+ 2059  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2060  ./dihotomija_sinh.out 
+ 2061  nano dihotomija_sinh.c
+ 2062  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2063  nano dihotomija_sinh.c
+ 2064  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2065  nano dihotomija_sinh.c
+ 2066  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2067  ./dihotomija_sinh.out 
+ 2068  nano dihotomija_sinh.c
+ 2069  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2070  nano dihotomija_sinh.c
+ 2071  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2072  nano dihotomija_sinh.c
+ 2073  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2074  ./dihotomija_sinh.out 
+ 2075  nano dihotomija_sinh.c
+ 2076  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2077  ./dihotomija_sinh.out 
+ 2078  nano dihotomija_sinh.c
+ 2079  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2080  nano dihotomija_sinh.c
+ 2081  ./dihotomija_sinh.out 
+ 2082  nano dihotomija_sinh.c
+ 2083  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2084  ./dihotomija_sinh.out 
+ 2085  nano dihotomija_sinh.c
+ 2086  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2087  ./dihotomija_sinh.out 
+ 2088  nano dihotomija_sinh.c
+ 2089  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2090  ./dihotomija_sinh.out 
+ 2091  ls
+ 2092  nano sinh.gp
+ 2093  gnuplot -p sinh.gp
+ 2094  nano sinh.gp
+ 2095  gnuplot -p sinh.gp
+ 2096  nano sinh.gp
+ 2097  gnuplot -p sinh.gp
+ 2098  nano sinh.gp
+ 2099  gnuplot -p sinh.gp
+ 2100  nano sinh.gp
+ 2101  gnuplot -p sinh.gp
+ 2102  nano sinh.gp
+ 2103  gnuplot -p sinh.gp
+ 2104  nano sinh.gp
+ 2105  gnuplot -p sinh.gp
+ 2106  nano sinh.gp
+ 2107  gnuplot -p sinh.gp
+ 2108  nano sinh.gp
+ 2109  gnuplot -p sinh.gp
+ 2110  nano sinh.gp
+ 2111  gnuplot -p sinh.gp
+ 2112  nano sinh.gp
+ 2113  gnuplot -p sinh.gp
+ 2114  nano sinh.gp
+ 2115  gnuplot -p sinh.gp
+ 2116  nano sinh.gp
+ 2117  gnuplot -p sinh.gp
+ 2118  nano sinh.gp
+ 2119  gnuplot -p sinh.gp
+ 2120  nano sinh.gp
+ 2121  gnuplot -p sinh.gp
+ 2122  nano sinh.gp
+ 2123  gnuplot -p sinh.gp
+ 2124  nano sinh.gp
+ 2125  gnuplot -p sinh.gp
+ 2126  nano sinh.gp
+ 2127  gnuplot -p sinh.gp
+ 2128  nano sinh.gp
+ 2129  gnuplot -p sinh.gp
+ 2130  nano sinh.gp
+ 2131  gnuplot -p sinh.gp
+ 2132  nano sinh.gp
+ 2133  gnuplot -p sinh.gp
+ 2134  nano sinh.gp
+ 2135  gnuplot -p sinh2LD.gp
+ 2136  nano sinh.gp
+ 2137  ls
+ 2138  nano sinh2LD.gp
+ 2139  gnuplot -p sinh2LD.gp
+ 2140  nano sinh2LD.gp
+ 2141  gnuplot -p sinh2LD.gp
+ 2142  ls
+ 2143  nano dihotomija_sinh.c
+ 2144  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2145  ./dihotomija_sinh.out 
+ 2146  nano dihotomija_sinh.c
+ 2147* 
+ 2148  ./dihotomija_sinh.out 
+ 2149  cd ..
+ 2150  ./git-upload 
+ 2151  cd 2LD
+ 2152  ./dihotomija_sinh.out 
+ 2153  nano dihotomija_sinh.c
+ 2154  gcc dihotomija_sinh.c -o dihotomija_sinh.out -lm
+ 2155  ./dihotomija_sinh.out 
+ 2156  cd..
+ 2157  cd ..
+ 2158  ./git-upload 
+ 2159  nano dihotomija_sinh.c
+ 2160  cd 2LD
+ 2161  nano dihotomija_sinh.c
+ 2162  cd ..
+ 2163  ./git-upload 
+ 2164  cd history
+ 2165  ls
+ 2166  history > history041222.txt
