@@ -57,5 +57,5 @@ return 0;
 
 double mod_sinh(double x, double c)
 {
-        return sinh(x)-c;
+        return sinh(x/2)-c;
 }
