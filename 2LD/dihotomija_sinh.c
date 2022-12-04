@@ -1,3 +1,8 @@
+//https://estudijas.rtu.lv/file.php/252149/RTR105_2019_2020_L18_20200118_14_50.pdf
+//https://www.programmingsimplified.com/c/dos.h/delay
+//https://stackoverflow.com/questions/25609437/print-number-of-spaces-using-printf-in-c°
+//https://superuser.com/questions/148701/specifically-marking-a-point-in-gnuplot
+
 #include<stdio.h>
 #include<math.h>
 
