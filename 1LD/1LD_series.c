@@ -5,11 +5,12 @@
 //gcc complile key -lm
 #include<stdio.h>
 #include<math.h>
-void my_sinh(double, int, double*, double*, double*);
+void my_sinh(double, int, double*, long double*, long double*);
 void main( )
 {
 
-        double x, y, my, aE499, aE500;
+        double x, y, my;
+	long double aE499 = 1.L, aE500 = 1.L;
 	int k=500;
 	printf("sinh(x/2) calculation");
 	printf("\nenter argument x:");
@@ -21,9 +22,13 @@ void main( )
 
 	my_sinh(x, k, &my, &aE499, &aE500);
 	printf("mana funkcija  my_sinh(%f/2) = %f\n",x ,my);
-	printf("a%d = 10^%f\n", k-1, aE499);//double garums ir 1.7+/1E308 un teilora 500 kartas
-	printf("a%d = 10^%f\n", k, aE500);//skaitlis ir daudz mazaks par to tapec ievadot skaitli paradas "-inf"
+	//printf("a%d = 10^%Lf\n", k-1, aE499);//double garums ir 1.7+/1E308 un teilora 500 kartas
+	//printf("a%d = 10^%Lf\n", k, aE500);//skaitlis ir daudz mazaks par to tapec ievadot skaitli paradas "-inf"
 	//samazinot atkartosanas reizes uz apmeram 100 paradas, ka a100~10^-297
+	printf("a%d = %Le\n", k-1, aE499);
+	printf("a%d = %Le\n", k-1, aE499);
+
+
 
 	printf("							\n");
 	printf("		%d					\n", k);
@@ -42,10 +47,11 @@ void main( )
 
 }
 
-void my_sinh(double x, int i, double* my, double* aE499, double* aE500)
+void my_sinh(double x, int i, double* my, long double* aE499, long double* aE500)
 {
-	double a = 0.0, s = 0.0, a_1= 0.0;
-	double n = 0.0, a499, a500;
+	long double a = 1.L , s = 0.0, a_1= 1.L;
+	long double a499 = 1.L, a500 = 1.L;
+	int n=0;
         a = x/(2.0*1.0);//n=1  x^n/(2.0^n*n!)
         s = a ;
 
@@ -56,10 +62,10 @@ void my_sinh(double x, int i, double* my, double* aE499, double* aE500)
             s = s + a ;
         }
 	a_1 = a/((x*x)/((4.0*2.0*n)*(2.0*n+1.0)));
-	//*aE499 = a_1;
-	//*aE500 = a;
-	*aE499 = log10(a_1);
-	*aE500 = log10(a);
+	*aE499 = a_1;
+	*aE500 = a;
+	//*aE499 = log10(a_1);
+	//*aE500 = log10(a);
 
 	*my = s;
 }
