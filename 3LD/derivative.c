@@ -5,9 +5,15 @@ void main()
 {
 
         long double a, b, x, p, delta_x; //float y:
-	FILE *fptr;
-	fopen("E:\\cprogram\\derivative.txt","w");
+	char *filename = "derivative.txt";
 
+    	FILE *fp;
+	fp = fopen("derivative.txt", "w");
+    	if (fp == NULL)
+    	{
+        	printf("Error opening the file %s", filename);
+        	return -1;
+	}
 	printf("Derivative of sinh(x/2)\n");
         /*printf("Enter range [a;b] and required precision 10^-p\n");
         printf("a=");
@@ -31,8 +37,10 @@ void main()
         while(x<=b) //y = sin(x);
         {
         //printf("%10.2Lf\t%10.2f\t% 10.2Lf\n",x, sinh(x/2), (sinh((x+delta_x)/2)-sinh(x/2))/delta_x);
-        fprintf("%5.2Lf\t\t%5.2f\t\t% 5.2Lf\n",x, sinh(x/2), (sinh((x+delta_x)/2)-sinh(x/2))/delta_x);
+        fprintf(fp, "%5.2Lf\t\t%5.2f\t\t% 5.2Lf\n" ,x, sinh(x/2), (sinh((x+delta_x)/2)-sinh(x/2))/delta_x);
         x = x + delta_x;
 	}
+
+	fclose(fp);
 }
 
