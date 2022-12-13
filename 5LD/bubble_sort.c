@@ -1,41 +1,44 @@
-//https://www.geeksforgeeks.org/bubble-sort/
-// C program for implementation of Bubble sort
 #include <stdio.h>
-void swap(char* xp, char* yp)
-{
-    char temp = *xp;
-    *xp = *yp;
-    *yp = temp;
-}
 
-// A function to implement bubble sort
-void bubbleSort(char arr[], int n)
-{
-    int i, j;
-    for (i = 0; i < n - 1; i++)
-
-        // Last i elements are already in place
-        for (j = 0; j < n - i - 1; j++)
-            if (arr[j] > arr[j + 1])
-                swap(&arr[j], &arr[j + 1]);
-}
-
-/* Function to print an array */
-void printArray(char arr[], int size)
-{
+void bubbleSortAWriteToB(const char a[], char * b[]);
+int N;
+int main(void){
     int i;
-    for (i = 0; i < size; i++)
-        printf("%d ", arr[i]);
-    printf("\n");
+
+	// initialize array
+	char * sorted_letters[N];
+	char letters[N];
+	printf("Enter letters without spaces:");
+	scanf("%s",leters[N]);
+
+    // sort array
+    bubbleSortAWriteToB(letters,sorted_letters);
+
+    // print sorted array
+    for (i=0;i<N;i++){
+        printf("%c\n", *sorted_letters[i]);
+    }
+
+    return 0;
 }
 
-// Driver program to test above functions
-int main()
-{
-    char arr[] = { 2, 7, 6, 6, 1 };
-    int n = sizeof(arr) / sizeof(arr[0]);
-    bubbleSort(arr, n);
-    printf("Sorted array: \n");
-    printArray(arr, (char)n);
-    return 0;
+void bubbleSortAWriteToB(const char a[], char * b[]){
+    char * temp;
+    int i,j;
+
+    // initialize b array to hold pointers to each element in a
+    for (i=0;i<N;i++){
+        b[i] = (char *)(a) + i;
+    }
+
+    // in-place sort the b array
+    for(i=0;i<N;i++){
+        for(j=i+1;j<N-1;j++){
+            if(*b[j-1]>*b[j]){
+                temp = b[j];
+                b[j] = b[j-1];
+                b[j-1] = temp;
+            }
+        }   
+    }
 }
