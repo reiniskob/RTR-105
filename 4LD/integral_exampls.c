@@ -7,7 +7,7 @@ void main()
 	int k, n=10;
 
 	printf("Integral of sinh(x/2)\n");
-	printf("Enter lower limit a, upper limit b and required precision p\n");
+	printf("Enter lower limit a, upper limit b and required precision 10^-p\n");
 	printf("a=");
 	scanf("%Lf", &a);
 	printf("b=");
