@@ -9,7 +9,6 @@ unsigned char x,y,z,c;
       scanf(" %c %c %c",&x,&y,&z);    //pajauta 3 burtus
       printf("For alphabetica order enter \"a\" \nFor reverse alphabetical order enter \"r\"\n");
       scanf(" %c", &c); //pajauta secibu
-      printf("%c %c %c", x,y,z);
 
       if(c == 97) //parbauda vai ievditais burts ir a
       {

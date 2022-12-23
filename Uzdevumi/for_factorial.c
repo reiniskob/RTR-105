@@ -23,7 +23,7 @@ int main()
                                 else
                                 {
                                         x = n+3;                // partrauc loop ja fact_previous nav vienads ar fact_next
-                                        printf("can't dispaly choosen factorial \nclosest displayable factorial: ");
+                                        printf("can't dispaly choosen factorial \nclosest displayable factorial 5!=");
                                 }
                         }
                 if(x != n+3)            //ja faktorials ir iespejams parada ieprieksejo iespejamo faktorialu
@@ -49,7 +49,7 @@ int main()
 		                        else
 		                        {
 		                                x = n+3;                // partrauc loop ja fact_previous nav vienads ar fact_next
-		                                printf("can't dispaly choosen factorial \nclosest displayable factorial: ");
+		                                printf("can't dispaly choosen factorial \nclosest displayable factorial 12!= ");
 		                        }
 		                }
 		        if(x != n+3)            //ja faktorials ir iespejams parada ieprieksejo iespejamo faktorialu
@@ -75,7 +75,7 @@ int main()
 				                else
 				                {
 				                        x = n+3;                // partrauc loop ja fact_previous nav vienads ar fact_next
-				                        printf("can't dispaly choosen factorial \nclosest displayable factorial: ");
+				                        printf("can't dispaly choosen factorial \nclosest displayable factorial 20!: ");
 				                }
 				        }
 				if(x != n+3)            //ja faktorials ir iespejams parada ieprieksejo iespejamo faktorialu

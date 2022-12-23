@@ -39,6 +39,6 @@ void bubbleSortAWriteToB(const char a[], char * b[]){
                 b[j] = b[j-1];
                 b[j-1] = temp;
             }
-        }   
+        }
     }
 }
