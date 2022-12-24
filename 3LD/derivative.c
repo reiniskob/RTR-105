@@ -25,11 +25,7 @@ void main()
         scanf("%lf", &b);
         printf("p=");
         scanf("%lf", &p);
-
-        a = -10;
-        b = 10;
-        p = 1;
-
+	
         delta_x = 1*pow(10,-p);
         x = a;
 
