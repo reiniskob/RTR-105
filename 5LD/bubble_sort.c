@@ -3,6 +3,8 @@
 
 
 #include <stdio.h>
+#include <stdlib.h>
+
 void printArray(char*, int);
 void printASCII(char*, int);
 void bubbleSort(char*, int);
@@ -15,12 +17,25 @@ void mode(char*, int);
 
 int main()
 {
-	char data[] = {100, 98, 104, 100, 98, 98, 100, 70, 70, 70,};
-	int size = 100000;
+	char ch;
+  	char data[100];
+	size_t size = 0;
 
-	printf("Enter a charecters seperated by spaces:");
+	printf("Enter multiple characters separated by spaces: ");
+	while ((ch = getchar()) != '\n')
+	{
+		if (ch != ' ')
+		{
+      			data[size] = ch;
+			size++;
+		}
+	}
+	data[size] = '\0';
 
-	size = sizeof(data) / sizeof(data[0]);
+	printf("\nYou entered: %s\n", data);
+
+	//char data[] = {100, 98, 104, 100, 98, 98, 100, 70, 70, 70,};
+	//int size = 100000;
 
 	bubbleSort(data, size);
 
@@ -33,6 +48,7 @@ int main()
 	median(data, size);
 	mode(data, size);
 
+	return 0;
 }
 
 void mode(char array[], int size){
@@ -46,6 +62,7 @@ void mode(char array[], int size){
 
 	max = str[0];
 	index = 0;
+
 	for(i = 0; array[i] != 0; i++)
 	{
 	     	if( str[array[i]] > max)
