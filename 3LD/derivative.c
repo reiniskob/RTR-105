@@ -25,7 +25,7 @@ void main()
         scanf("%lf", &b);
         printf("p=");
         scanf("%lf", &p);
-	
+
         delta_x = 1*pow(10,-p);
         x = a;
 
@@ -34,7 +34,7 @@ void main()
 
         while(x<=b) //y = sin(x);
         {
-        fprintf(fp, "%5.2f \t| %5.2f \t| %5.2f \t| %5.2f \t|" ,x, sinh(x/2), (cosh(x/2))/2, first_derivative(x, delta_x));
+        fprintf(fp, "%5.2f \t| %5.2f \t| %5.2f \t| %5.2f \t| " ,x, sinh(x/2), (cosh(x/2))/2, first_derivative(x, delta_x));
         fprintf(fp, "%5.2f     \t| %5.2f\n", (sinh(x/2))/4, second_derivative(x, delta_x));
         x = x + delta_x;
 	}
