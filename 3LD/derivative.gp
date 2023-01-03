@@ -1,6 +1,7 @@
 set grid 
 set xrange [-10:10]
 set yrange [-10:10]
+set size ratio -1
 set key right bottom
 set title "Derivative" 
 plot   "derivative.dat" every ::1 using 1:3  w l lt 7 title "analytical formula sinh(x/2)"
