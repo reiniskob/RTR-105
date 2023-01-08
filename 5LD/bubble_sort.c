@@ -1,5 +1,6 @@
 //https://www.programiz.com/dsa/bubble-sort
 //https://stackoverflow.com/questions/9513764/c-find-most-frequent-element-in-char-array
+//https://www.tutorialgateway.org/c-program-to-remove-all-duplicate-character-in-a-string/
 
 
 #include <stdio.h>
@@ -54,9 +55,10 @@ int main()
 void mode(char array[], int size){
 
 	int str[255] = {0};
-	int i, max, index;
+	int i, j, k, max, index;
 
-	for(i = 0; array[i] != 0; i++){
+	for(i = 0; array[i] != 0; i++)
+	{
    		++str[array[i]];
 	}
 
@@ -72,7 +74,39 @@ void mode(char array[], int size){
 		}
 	}
 
-printf("Mode value is %c (%d)\n", array[index], (int)array[index]);
+	printf("Mode value is %c (%d)\n", array[index], (int)array[index]);
+
+	char *filename = "Mode.dat";//datu ierakstisana dat faila prieks histogrammas
+
+	FILE *fp;
+	fp = fopen("Mode.dat", "w");
+	if (fp == NULL)
+	{
+		printf("Error opening the file %s", filename);
+	}
+
+
+	for (i = 0; i < size; i++)//kods, lai nonemtu atkartojosus burtus
+	{
+		for (j = i + 1; j < size; j++)
+		{
+			if (array[i] == array[j])
+			{
+				for (k = j; k < size; k++)
+				{
+					array[k] = array[k + 1];
+				}
+				size--;
+				j--;
+			}
+		}
+	}
+
+	for(i=0; array[i] != 0; i++)
+	{
+		fprintf(fp, "%c\t%d\n", array[i], str[array[i]]);
+	}
+	fclose(fp);
 
 }
 
@@ -128,15 +162,9 @@ void max(char array[], int size){
 }
 
 void bubbleSort(char array[], int size){
-	// loop to access each array element
 	for (int step = 0; step < size - 1; ++step){
-		// loop to compare array elements
 		for (int i = 0; i < size - step - 1; ++i){
-			// compare two adjacent elements
-			// change > to < to sort in descending order
 			if (array[i] > array[i + 1]){
-				// swapping occurs if elements
-				// are not in the intended order
 				int temp = array[i];
 				array[i] = array[i + 1];
 				array[i + 1] = temp;
