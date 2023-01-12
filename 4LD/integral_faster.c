@@ -1,5 +1,6 @@
 //pievienoju ari desmos aprekinu, jo tas deva lielaku precizitati
 //trapeces un Simpsona kodi ir pasa rakstiti, tapec tie ir mazliet leni pie lielakam precizitatem
+//saja versia simpsona likuma kods ir 2 reizes atraks, jo taja netiek izmantots kosinus
 #include<stdio.h>
 #include<math.h>
 
@@ -41,7 +42,7 @@ void main()
 	integral2=(b-a)*(sinh(a/2)+sinh(b/2));	//(b-a)/2.*sin(a)+(b-a)/2.*sin(b);
 	while (fabs (integral2-integral1)>eps)
 	{
-		n*=2;
+		n*=3;
 		delta_x=(b-a)/n;
 
 		integral1=integral2;
@@ -80,6 +81,30 @@ void main()
 		}
 	}
 	printf("Integral using Simpson's rule in interval   [%.2Lf;%.2Lf]= %.10Lf\n", a, b, integral2);
+
+
+	//simpsons rule
+	n=1;
+	integral1=0;
+	integral2=1;
+
+	while (fabs (integral2-integral1)>eps)
+	{
+		n*=2;
+		delta_x=(b-a)/n;
+
+		integral1=integral2;
+		integral2=0;
+		delta_x1=0;
+		integral2=(delta_x/3)*(sinh(a/2)+sinh(b/2));
+		for (k=1;a<=b-delta_x1;k++)
+		{
+			delta_x1=delta_x*k;
+			integral2+=(delta_x/3)*(2*pow(2,((k%2))))*sinh((b-delta_x1)/2);
+			//printf("%Lf \t %Lf \t %d \n",integral2, delta_x1, k%2 );
+		}
+	}
+	printf("Integral using Simpson's rule 2. in interval[%.2Lf;%.2Lf]= %.10Lf\n", a, b, integral2);
 
 
 
